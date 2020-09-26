@@ -185,6 +185,7 @@ The newick file has to be converted to the phyloXML format in order to be able t
 The newick file is specified as input with the -i switch and the program is informed that nodeIDs are posterior probabilities with the -id posterior switch. This command generated the codium_tree.xml file, which is the tree in XML format. This file will be used as input for the TreeGradients.pl script, which will draw the tree. Here's an example command to create an SVG drawing of the tree.
 
 ```perl TreeGradients.pl -t reds.xml -o reds_bootstrap.svg -vn bootstrap1 -ni bootstrap -gt blw -gr 1```
+
 The -t and -o switches specify the input phyloXML tree and the output SVG files. The program is told to plot bootstrap values on the branches (-vn bootstrap1) according to a blue-white color gradient (-gt blw). Bootstrap values are also printed at nodes using the -ni bootstrap switch. Any gradient going from white to another color does not benefit from a gradient resolution above 1 so, in order to reduce file size, I set the gradient resolution to its minimum value (-gr 1). Running this command created the reds_bootstrap.svg file, which contains the tree drawing and can be opened with most vectorial drawing software.
 
 ##### Example 1.2 – Plotting posterior probabilities
@@ -198,6 +199,7 @@ codium_tree.nwk	file containing the tree with PP values (in newick format)
 The newick file has to be converted to the phyloXML format in order to be able to draw it. This is done with TreeExtender.pl using the following command:
 
 ```perl TreeExtender.pl -i codium_tree.nwk -id posterior```
+
 The newick file is specified as input with the -i switch and the program is informed that nodeIDs are posterior probabilities with the -id posterior switch. This command generated the codium_tree.xml file, which is the tree in XML format. This file will be used as input for the TreeGradients.pl script, which will draw the tree. I'll tell the program to draw the posterior probabilities along the tree in shades of gray.
 
 The -t and -o switches define the input tree and output SVG. The -vn posterior2 switch tells the program to convert the posterior probabilities to a gradient of colors (in this case, shades of gray). Because one is not usually interested in very low PP values, the posterior2 option allows drawing PPs below 0.50 in the shade of gray corresponding to PP = 0.50, not wasting "gradient space" on very low PP values. The gradient runs from 0.2 to 1 darkness, as specified by the switch -gt g[0.2-1]. Because grayscale gradients don't need internal stops, I set the gradient resolution to 1 (-gr 1) to decrease SVG file size. I also told the program to print the posterior probability at internal nodes (-ni posterior).
@@ -215,11 +217,13 @@ bt_script.txt	To make things easier, I generated a script file to run BayesTrait
 The first thing to do is run BayesTraits to reconstruct ancestral states for all internal nodes. This is done as follows:
 
 ```bayestraits green_tree.nex green_data.txt < bt_script.txt```
+
 This command gives you a bunch of screen output and also generates the file green_data.txt.log.txt
 
 Now suppose I'm interested in plotting the probabilities of the first character on the tree. In order to do this, the the tree file needs to be converted into phyloXML format and annotated with the appropriate character state probabilities. This is done with the following TreeExtender.pl command.
 
 ```perl TreeExtender.pl -i green_tree.nwk -o green_tree.xml -p bt -f1 green_data.txt.log.txt -f2 green_data.txt -vt double_discrete -jp 1 -vn flagella```
+
 The -i and -o switch specify input and output tree files. The -p switch is used to run the BayesTraits parser, using -f1 and -f2 to specify the data files. The -vt switch tells the program to expect double_discrete data, i.e., data resulting from the analysis of two discrete characters. The -jp switch is used to let the program know I'm interested in the first character. I used the -vn switch to specify a variable name: flagella (the first variable in my example is the presence of flagella in the vegetative stage of the life cycle). After the script is run you'll find the phyloXML file green_tree.xml.
 
 Now you're ready to plot the values on the tree with TreeGradients.pl. Here's a simple example of how to do this, using default settings for all optional parameters.
@@ -235,6 +239,7 @@ Now suppose we also need to visualize the states of the second character. In ord
 This command opens the phyloXML file green_tree.xml, appends the character states for the second character (-jp 2) and writes the result to green_tree_2.xml. Now both characters (flagella and multicellular) are present in the green_tree_2.xml file. This command visualizes the probability that the vegetative life stage is multicellular in a blue-to-yellow gradient.
 
 ```perl TreeGradients.pl -t green_tree_2.xml -o multicellular.svg -vn multicellular -gt bly```
+
 This command generates the file multicellular.svg, which contains the tree drawing.
 
 The same modus operandi can be used with BayesTraits' model for interdependent evolution between two binary characters. The exercise has been repeated with the interdependent model in the interdependent folder. The only difference is in the bt_script.txt file.
@@ -256,9 +261,11 @@ The first thing to do is run BayesTraits to reconstruct ancestral states for all
 This command gives you a bunch of screen output and also generates the file character_data.txt.log.txt. Next thing to do is to convert the tree to phyloXML and annotate the BayesTraits output. This is done as follows:
 
 ```perl TreeExtender.pl -i tree.nwk -o tree.xml -p bt -f1 character_data.txt.log.txt -f2 character_data.txt -vt multistate -vn btt```
+
 This command results in the file character_data.txt.log.txt being generated. The tree can now be plotted using TreeGradients.pl:
 
 ```perl TreeGradients.pl -t tree.xml -o plot.svg -vn btt -ni value -gt byr -gr 3```
+
 For plotting three-state characters, one of the triangle gradient types has to be used. Each of the triangular gradients are defined by three letters representing the colors for each state. Intermediate colors indicate uncertainty. In this example, I used the byr (blue-yellow-red) gradient type. Execution of the command generates the file plot.svg, which contains the tree drawing.
 
 ### Dependencies
