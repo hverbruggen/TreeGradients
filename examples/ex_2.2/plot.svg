@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg height="105" width="70" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<g id="branches">
+		<circle cx="0" cy="22.96875" r="1" style="fill:rgb(149.5989212,124.9339024,154.2481568)" />
+		<circle cx="0" cy="10.5" r="1" style="fill:rgb(149.5989212,124.9339024,154.2481568)" />
+		<rect height="12.46875" style="fill:rgb(149.5989212,124.9339024,154.2481568)" width="2" x="-1" y="10.5" />
+		<rect height="2" style="fill:url(#gradient_between_nodes_1_and_2)" width="24.0860215053763" x="0" y="9.5" />
+		<circle cx="24.0860215053763" cy="10.5" r="1" style="fill:rgb(40.0532564,145.6334368,258.7561376)" />
+		<circle cx="24.0860215053763" cy="7" r="1" style="fill:rgb(40.0532564,145.6334368,258.7561376)" />
+		<rect height="3.5" style="fill:rgb(40.0532564,145.6334368,258.7561376)" width="2" x="23.0860215053763" y="7" />
+		<rect height="2" style="fill:url(#gradient_between_nodes_2_and_3)" width="0.677419354838708" x="24.0860215053763" y="6" />
+		<circle cx="24.7634408602151" cy="7" r="1" style="fill:rgb(39.9,145.7,258.9)" />
+		<circle cx="24.0860215053763" cy="14" r="1" style="fill:rgb(40.0532564,145.6334368,258.7561376)" />
+		<rect height="3.5" style="fill:rgb(40.0532564,145.6334368,258.7561376)" width="2" x="23.0860215053763" y="10.5" />
+		<rect height="2" style="fill:url(#gradient_between_nodes_2_and_4)" width="0.827956989247312" x="24.0860215053763" y="13" />
+		<circle cx="24.9139784946237" cy="14" r="1" style="fill:rgb(39.9,145.7,258.9)" />
+		<circle cx="0" cy="35.4375" r="1" style="fill:rgb(149.5989212,124.9339024,154.2481568)" />
+		<rect height="12.46875" style="fill:rgb(149.5989212,124.9339024,154.2481568)" width="2" x="-1" y="22.96875" />
+		<rect height="2" style="fill:url(#gradient_between_nodes_1_and_5)" width="1.50537634408602" x="0" y="34.4375" />
+		<circle cx="1.50537634408602" cy="35.4375" r="1" style="fill:rgb(201.1277884,150.9299612,102.8595184)" />
+		<circle cx="1.50537634408602" cy="21" r="1" style="fill:rgb(201.1277884,150.9299612,102.8595184)" />
+		<rect height="14.4375" style="fill:rgb(201.1277884,150.9299612,102.8595184)" width="2" x="0.505376344086022" y="21" />
+		<rect height="2" style="fill:url(#gradient_between_nodes_5_and_6)" width="30.1075268817204" x="1.50537634408602" y="20" />
+		<circle cx="31.6129032258064" cy="21" r="1" style="fill:rgb(39.9,145.7,258.9)" />
+		<circle cx="1.50537634408602" cy="49.875" r="1" style="fill:rgb(201.1277884,150.9299612,102.8595184)" />
+		<rect height="14.4375" style="fill:rgb(201.1277884,150.9299612,102.8595184)" width="2" x="0.505376344086022" y="35.4375" />
+		<rect height="2" style="fill:url(#gradient_between_nodes_5_and_7)" width="2.25806451612903" x="1.50537634408602" y="48.875" />
+		<circle cx="3.76344086021505" cy="49.875" r="1" style="fill:rgb(239.666634,193.9385136,62.9552352)" />
+		<circle cx="3.76344086021505" cy="38.5" r="1" style="fill:rgb(239.666634,193.9385136,62.9552352)" />
+		<rect height="11.375" style="fill:rgb(239.666634,193.9385136,62.9552352)" width="2" x="2.76344086021505" y="38.5" />
+		<rect height="2" style="fill:url(#gradient_between_nodes_7_and_8)" width="17.3118279569892" x="3.76344086021505" y="37.5" />
+		<circle cx="21.0752688172043" cy="38.5" r="1" style="fill:rgb(266.4093048,267.5636932,32.5335024)" />
+		<circle cx="21.0752688172043" cy="31.5" r="1" style="fill:rgb(266.4093048,267.5636932,32.5335024)" />
+		<rect height="7" style="fill:rgb(266.4093048,267.5636932,32.5335024)" width="2" x="20.0752688172043" y="31.5" />
+		<rect height="2" style="fill:url(#gradient_between_nodes_8_and_9)" width="6.02150537634409" x="21.0752688172043" y="30.5" />
+		<circle cx="27.0967741935484" cy="31.5" r="1" style="fill:rgb(267.6819496,274.1530568,30.8932576)" />
+		<circle cx="27.0967741935484" cy="28" r="1" style="fill:rgb(267.6819496,274.1530568,30.8932576)" />
+		<rect height="3.5" style="fill:rgb(267.6819496,274.1530568,30.8932576)" width="2" x="26.0967741935484" y="28" />
+		<rect height="2" style="fill:url(#gradient_between_nodes_9_and_10)" width="2.25806451612903" x="27.0967741935484" y="27" />
+		<circle cx="29.3548387096774" cy="28" r="1" style="fill:rgb(268.3,277.3,30.1)" />
+		<circle cx="27.0967741935484" cy="35" r="1" style="fill:rgb(267.6819496,274.1530568,30.8932576)" />
+		<rect height="3.5" style="fill:rgb(267.6819496,274.1530568,30.8932576)" width="2" x="26.0967741935484" y="31.5" />
+		<rect height="2" style="fill:url(#gradient_between_nodes_9_and_11)" width="4.51612903225806" x="27.0967741935484" y="34" />
+		<circle cx="31.6129032258064" cy="35" r="1" style="fill:rgb(268.3,277.3,30.1)" />
+		<circle cx="21.0752688172043" cy="45.5" r="1" style="fill:rgb(266.4093048,267.5636932,32.5335024)" />
+		<rect height="7" style="fill:rgb(266.4093048,267.5636932,32.5335024)" width="2" x="20.0752688172043" y="38.5" />
+		<rect height="2" style="fill:url(#gradient_between_nodes_8_and_12)" width="3.01075268817204" x="21.0752688172043" y="44.5" />
+		<circle cx="24.0860215053763" cy="45.5" r="1" style="fill:rgb(262.4383424,255.0441008,37.1497856)" />
+		<circle cx="24.0860215053763" cy="42" r="1" style="fill:rgb(262.4383424,255.0441008,37.1497856)" />
+		<rect height="3.5" style="fill:rgb(262.4383424,255.0441008,37.1497856)" width="2" x="23.0860215053763" y="42" />
+		<rect height="2" style="fill:url(#gradient_between_nodes_12_and_13)" width="8.27956989247312" x="24.0860215053763" y="41" />
+		<circle cx="32.3655913978495" cy="42" r="1" style="fill:rgb(268.3,277.3,30.1)" />
+		<circle cx="24.0860215053763" cy="49" r="1" style="fill:rgb(262.4383424,255.0441008,37.1497856)" />
+		<rect height="3.5" style="fill:rgb(262.4383424,255.0441008,37.1497856)" width="2" x="23.0860215053763" y="45.5" />
+		<rect height="2" style="fill:url(#gradient_between_nodes_12_and_14)" width="11.2903225806452" x="24.0860215053763" y="48" />
+		<circle cx="35.3763440860215" cy="49" r="1" style="fill:rgb(268.3,277.3,30.1)" />
+		<circle cx="3.76344086021505" cy="61.25" r="1" style="fill:rgb(239.666634,193.9385136,62.9552352)" />
+		<rect height="11.375" style="fill:rgb(239.666634,193.9385136,62.9552352)" width="2" x="2.76344086021505" y="49.875" />
+		<rect height="2" style="fill:url(#gradient_between_nodes_7_and_15)" width="7.52688172043011" x="3.76344086021505" y="60.25" />
+		<circle cx="11.2903225806452" cy="61.25" r="1" style="fill:rgb(221.6152684,152.5054252,82.9743664)" />
+		<circle cx="11.2903225806452" cy="56" r="1" style="fill:rgb(221.6152684,152.5054252,82.9743664)" />
+		<rect height="5.25" style="fill:rgb(221.6152684,152.5054252,82.9743664)" width="2" x="10.2903225806452" y="56" />
+		<rect height="2" style="fill:url(#gradient_between_nodes_15_and_16)" width="24.8387096774194" x="11.2903225806452" y="55" />
+		<circle cx="36.1290322580645" cy="56" r="1" style="fill:rgb(268.3,46.5,44.5)" />
+		<circle cx="11.2903225806452" cy="66.5" r="1" style="fill:rgb(221.6152684,152.5054252,82.9743664)" />
+		<rect height="5.25" style="fill:rgb(221.6152684,152.5054252,82.9743664)" width="2" x="10.2903225806452" y="61.25" />
+		<rect height="2" style="fill:url(#gradient_between_nodes_15_and_17)" width="23.3333333333333" x="11.2903225806452" y="65.5" />
+		<circle cx="34.6236559139785" cy="66.5" r="1" style="fill:rgb(252.5180168,147.2718884,53.4549488)" />
+		<circle cx="34.6236559139785" cy="63" r="1" style="fill:rgb(252.5180168,147.2718884,53.4549488)" />
+		<rect height="3.5" style="fill:rgb(252.5180168,147.2718884,53.4549488)" width="2" x="33.6236559139785" y="63" />
+		<rect height="2" style="fill:url(#gradient_between_nodes_17_and_18)" width="9.03225806451613" x="34.6236559139785" y="62" />
+		<circle cx="43.6559139784946" cy="63" r="1" style="fill:rgb(268.3,46.5,44.5)" />
+		<circle cx="34.6236559139785" cy="70" r="1" style="fill:rgb(252.5180168,147.2718884,53.4549488)" />
+		<rect height="3.5" style="fill:rgb(252.5180168,147.2718884,53.4549488)" width="2" x="33.6236559139785" y="66.5" />
+		<rect height="2" style="fill:url(#gradient_between_nodes_17_and_19)" width="12.0430107526882" x="34.6236559139785" y="69" />
+		<circle cx="46.6666666666667" cy="70" r="1" style="fill:rgb(268.3,277.3,30.1)" />
+	</g>
+	<defs id="gradients">
+		<linearGradient id="gradient_between_nodes_1_and_2" x1="0%" x2="100%" y1="0%" y2="0%">
+			<stop offset="0%" style="stop-color:rgb(149.5989212,124.9339024,154.2481568);stop-opacity:1" />
+			<stop offset="33.3333333333333%" style="stop-color:rgb(113.0836996,131.8337472,189.0841504);stop-opacity:1" />
+			<stop offset="66.6666666666667%" style="stop-color:rgb(76.568478,138.733592,223.920144);stop-opacity:1" />
+			<stop offset="100%" style="stop-color:rgb(40.0532564,145.6334368,258.7561376);stop-opacity:1" />
+		</linearGradient>
+		<linearGradient id="gradient_between_nodes_2_and_3" x1="0%" x2="100%" y1="0%" y2="0%">
+			<stop offset="0%" style="stop-color:rgb(40.0532564,145.6334368,258.7561376);stop-opacity:1" />
+			<stop offset="33.3333333333333%" style="stop-color:rgb(40.0021709333333,145.655624533333,258.804091733333);stop-opacity:1" />
+			<stop offset="66.6666666666667%" style="stop-color:rgb(39.9510854666667,145.677812266667,258.852045866667);stop-opacity:1" />
+			<stop offset="100%" style="stop-color:rgb(39.9,145.7,258.9);stop-opacity:1" />
+		</linearGradient>
+		<linearGradient id="gradient_between_nodes_2_and_4" x1="0%" x2="100%" y1="0%" y2="0%">
+			<stop offset="0%" style="stop-color:rgb(40.0532564,145.6334368,258.7561376);stop-opacity:1" />
+			<stop offset="33.3333333333333%" style="stop-color:rgb(40.0021709333333,145.655624533333,258.804091733333);stop-opacity:1" />
+			<stop offset="66.6666666666667%" style="stop-color:rgb(39.9510854666667,145.677812266667,258.852045866667);stop-opacity:1" />
+			<stop offset="100%" style="stop-color:rgb(39.9,145.7,258.9);stop-opacity:1" />
+		</linearGradient>
+		<linearGradient id="gradient_between_nodes_1_and_5" x1="0%" x2="100%" y1="0%" y2="0%">
+			<stop offset="0%" style="stop-color:rgb(149.5989212,124.9339024,154.2481568);stop-opacity:1" />
+			<stop offset="33.3333333333333%" style="stop-color:rgb(166.775210266667,133.599255333333,137.118610666667);stop-opacity:1" />
+			<stop offset="66.6666666666667%" style="stop-color:rgb(183.951499333333,142.264608266667,119.989064533333);stop-opacity:1" />
+			<stop offset="100%" style="stop-color:rgb(201.1277884,150.9299612,102.8595184);stop-opacity:1" />
+		</linearGradient>
+		<linearGradient id="gradient_between_nodes_5_and_6" x1="0%" x2="100%" y1="0%" y2="0%">
+			<stop offset="0%" style="stop-color:rgb(201.1277884,150.9299612,102.8595184);stop-opacity:1" />
+			<stop offset="33.3333333333333%" style="stop-color:rgb(147.385192266667,149.1866408,154.873012266667);stop-opacity:1" />
+			<stop offset="66.6666666666667%" style="stop-color:rgb(93.6425961333333,147.4433204,206.886506133333);stop-opacity:1" />
+			<stop offset="100%" style="stop-color:rgb(39.9,145.7,258.9);stop-opacity:1" />
+		</linearGradient>
+		<linearGradient id="gradient_between_nodes_5_and_7" x1="0%" x2="100%" y1="0%" y2="0%">
+			<stop offset="0%" style="stop-color:rgb(201.1277884,150.9299612,102.8595184);stop-opacity:1" />
+			<stop offset="33.3333333333333%" style="stop-color:rgb(213.974070266667,165.266145333333,89.5580906666667);stop-opacity:1" />
+			<stop offset="66.6666666666667%" style="stop-color:rgb(226.820352133333,179.602329466667,76.2566629333333);stop-opacity:1" />
+			<stop offset="100%" style="stop-color:rgb(239.666634,193.9385136,62.9552352);stop-opacity:1" />
+		</linearGradient>
+		<linearGradient id="gradient_between_nodes_7_and_8" x1="0%" x2="100%" y1="0%" y2="0%">
+			<stop offset="0%" style="stop-color:rgb(239.666634,193.9385136,62.9552352);stop-opacity:1" />
+			<stop offset="33.3333333333333%" style="stop-color:rgb(248.5808576,218.480240133333,52.8146576);stop-opacity:1" />
+			<stop offset="66.6666666666667%" style="stop-color:rgb(257.4950812,243.021966666667,42.67408);stop-opacity:1" />
+			<stop offset="100%" style="stop-color:rgb(266.4093048,267.5636932,32.5335024);stop-opacity:1" />
+		</linearGradient>
+		<linearGradient id="gradient_between_nodes_8_and_9" x1="0%" x2="100%" y1="0%" y2="0%">
+			<stop offset="0%" style="stop-color:rgb(266.4093048,267.5636932,32.5335024);stop-opacity:1" />
+			<stop offset="33.3333333333333%" style="stop-color:rgb(266.833519733333,269.760147733333,31.9867541333333);stop-opacity:1" />
+			<stop offset="66.6666666666667%" style="stop-color:rgb(267.257734666667,271.956602266667,31.4400058666667);stop-opacity:1" />
+			<stop offset="100%" style="stop-color:rgb(267.6819496,274.1530568,30.8932576);stop-opacity:1" />
+		</linearGradient>
+		<linearGradient id="gradient_between_nodes_9_and_10" x1="0%" x2="100%" y1="0%" y2="0%">
+			<stop offset="0%" style="stop-color:rgb(267.6819496,274.1530568,30.8932576);stop-opacity:1" />
+			<stop offset="33.3333333333333%" style="stop-color:rgb(267.8879664,275.202037866667,30.6288384);stop-opacity:1" />
+			<stop offset="66.6666666666667%" style="stop-color:rgb(268.0939832,276.251018933333,30.3644192);stop-opacity:1" />
+			<stop offset="100%" style="stop-color:rgb(268.3,277.3,30.1);stop-opacity:1" />
+		</linearGradient>
+		<linearGradient id="gradient_between_nodes_9_and_11" x1="0%" x2="100%" y1="0%" y2="0%">
+			<stop offset="0%" style="stop-color:rgb(267.6819496,274.1530568,30.8932576);stop-opacity:1" />
+			<stop offset="33.3333333333333%" style="stop-color:rgb(267.8879664,275.202037866667,30.6288384);stop-opacity:1" />
+			<stop offset="66.6666666666667%" style="stop-color:rgb(268.0939832,276.251018933333,30.3644192);stop-opacity:1" />
+			<stop offset="100%" style="stop-color:rgb(268.3,277.3,30.1);stop-opacity:1" />
+		</linearGradient>
+		<linearGradient id="gradient_between_nodes_8_and_12" x1="0%" x2="100%" y1="0%" y2="0%">
+			<stop offset="0%" style="stop-color:rgb(266.4093048,267.5636932,32.5335024);stop-opacity:1" />
+			<stop offset="33.3333333333333%" style="stop-color:rgb(265.085650666667,263.390495733333,34.0722634666667);stop-opacity:1" />
+			<stop offset="66.6666666666667%" style="stop-color:rgb(263.761996533333,259.217298266667,35.6110245333333);stop-opacity:1" />
+			<stop offset="100%" style="stop-color:rgb(262.4383424,255.0441008,37.1497856);stop-opacity:1" />
+		</linearGradient>
+		<linearGradient id="gradient_between_nodes_12_and_13" x1="0%" x2="100%" y1="0%" y2="0%">
+			<stop offset="0%" style="stop-color:rgb(262.4383424,255.0441008,37.1497856);stop-opacity:1" />
+			<stop offset="33.3333333333333%" style="stop-color:rgb(264.392228266667,262.462733866667,34.7998570666667);stop-opacity:1" />
+			<stop offset="66.6666666666667%" style="stop-color:rgb(266.346114133333,269.881366933333,32.4499285333333);stop-opacity:1" />
+			<stop offset="100%" style="stop-color:rgb(268.3,277.3,30.1);stop-opacity:1" />
+		</linearGradient>
+		<linearGradient id="gradient_between_nodes_12_and_14" x1="0%" x2="100%" y1="0%" y2="0%">
+			<stop offset="0%" style="stop-color:rgb(262.4383424,255.0441008,37.1497856);stop-opacity:1" />
+			<stop offset="33.3333333333333%" style="stop-color:rgb(264.392228266667,262.462733866667,34.7998570666667);stop-opacity:1" />
+			<stop offset="66.6666666666667%" style="stop-color:rgb(266.346114133333,269.881366933333,32.4499285333333);stop-opacity:1" />
+			<stop offset="100%" style="stop-color:rgb(268.3,277.3,30.1);stop-opacity:1" />
+		</linearGradient>
+		<linearGradient id="gradient_between_nodes_7_and_15" x1="0%" x2="100%" y1="0%" y2="0%">
+			<stop offset="0%" style="stop-color:rgb(239.666634,193.9385136,62.9552352);stop-opacity:1" />
+			<stop offset="33.3333333333333%" style="stop-color:rgb(233.649512133333,180.127484133333,69.6282789333333);stop-opacity:1" />
+			<stop offset="66.6666666666667%" style="stop-color:rgb(227.632390266667,166.316454666667,76.3013226666667);stop-opacity:1" />
+			<stop offset="100%" style="stop-color:rgb(221.6152684,152.5054252,82.9743664);stop-opacity:1" />
+		</linearGradient>
+		<linearGradient id="gradient_between_nodes_15_and_16" x1="0%" x2="100%" y1="0%" y2="0%">
+			<stop offset="0%" style="stop-color:rgb(221.6152684,152.5054252,82.9743664);stop-opacity:1" />
+			<stop offset="33.3333333333333%" style="stop-color:rgb(237.1768456,117.170283466667,70.1495776);stop-opacity:1" />
+			<stop offset="66.6666666666667%" style="stop-color:rgb(252.7384228,81.8351417333333,57.3247888);stop-opacity:1" />
+			<stop offset="100%" style="stop-color:rgb(268.3,46.5,44.5);stop-opacity:1" />
+		</linearGradient>
+		<linearGradient id="gradient_between_nodes_15_and_17" x1="0%" x2="100%" y1="0%" y2="0%">
+			<stop offset="0%" style="stop-color:rgb(221.6152684,152.5054252,82.9743664);stop-opacity:1" />
+			<stop offset="33.3333333333333%" style="stop-color:rgb(231.916184533333,150.760912933333,73.1345605333333);stop-opacity:1" />
+			<stop offset="66.6666666666667%" style="stop-color:rgb(242.217100666667,149.016400666667,63.2947546666667);stop-opacity:1" />
+			<stop offset="100%" style="stop-color:rgb(252.5180168,147.2718884,53.4549488);stop-opacity:1" />
+		</linearGradient>
+		<linearGradient id="gradient_between_nodes_17_and_18" x1="0%" x2="100%" y1="0%" y2="0%">
+			<stop offset="0%" style="stop-color:rgb(252.5180168,147.2718884,53.4549488);stop-opacity:1" />
+			<stop offset="33.3333333333333%" style="stop-color:rgb(257.778677866667,113.681258933333,50.4699658666667);stop-opacity:1" />
+			<stop offset="66.6666666666667%" style="stop-color:rgb(263.039338933333,80.0906294666667,47.4849829333333);stop-opacity:1" />
+			<stop offset="100%" style="stop-color:rgb(268.3,46.5,44.5);stop-opacity:1" />
+		</linearGradient>
+		<linearGradient id="gradient_between_nodes_17_and_19" x1="0%" x2="100%" y1="0%" y2="0%">
+			<stop offset="0%" style="stop-color:rgb(252.5180168,147.2718884,53.4549488);stop-opacity:1" />
+			<stop offset="33.3333333333333%" style="stop-color:rgb(257.778677866667,190.614592266667,45.6699658666667);stop-opacity:1" />
+			<stop offset="66.6666666666667%" style="stop-color:rgb(263.039338933333,233.957296133333,37.8849829333333);stop-opacity:1" />
+			<stop offset="100%" style="stop-color:rgb(268.3,277.3,30.1);stop-opacity:1" />
+		</linearGradient>
+	</defs>
+	<g id="taxon_labels">
+		<text font-size="2.8" x="27.7634408602151" y="7.9">(P0 = 1.00)
+		</text>
+		<text font-size="4.9" x="45.2634408602151" y="8.4">B
+		</text>
+		<text font-size="2.8" x="27.9139784946237" y="14.9">(P0 = 1.00)
+		</text>
+		<text font-size="4.9" x="45.4139784946237" y="15.4">A
+		</text>
+		<text font-size="2.8" x="34.6129032258064" y="21.9">(P0 = 1.00)
+		</text>
+		<text font-size="4.9" x="52.1129032258064" y="22.4">C
+		</text>
+		<text font-size="2.8" x="32.3548387096774" y="28.9">(P2 = 1.00)
+		</text>
+		<text font-size="4.9" x="49.8548387096774" y="29.4">F
+		</text>
+		<text font-size="2.8" x="34.6129032258064" y="35.9">(P2 = 1.00)
+		</text>
+		<text font-size="4.9" x="52.1129032258064" y="36.4">G
+		</text>
+		<text font-size="2.8" x="35.3655913978495" y="42.9">(P2 = 1.00)
+		</text>
+		<text font-size="4.9" x="52.8655913978495" y="43.4">E
+		</text>
+		<text font-size="2.8" x="38.3763440860215" y="49.9">(P2 = 1.00)
+		</text>
+		<text font-size="4.9" x="55.8763440860215" y="50.4">D
+		</text>
+		<text font-size="2.8" x="39.1290322580645" y="56.9">(P1 = 1.00)
+		</text>
+		<text font-size="4.9" x="56.6290322580645" y="57.4">H
+		</text>
+		<text font-size="2.8" x="46.6559139784946" y="63.9">(P1 = 1.00)
+		</text>
+		<text font-size="4.9" x="64.1559139784946" y="64.4">I
+		</text>
+		<text font-size="2.8" x="49.6666666666667" y="70.9">(P2 = 1.00)
+		</text>
+		<text font-size="4.9" x="67.1666666666667" y="71.4">J
+		</text>
+	</g>
+	<g id="node_labels">
+		<text font-size="2.8" x="-12" y="20.96875">P0 = 0.52
+		</text>
+		<text font-size="2.8" x="-12" y="23.36875">P1 = 0.36
+		</text>
+		<text font-size="2.8" x="-12" y="25.76875">P2 = 0.12
+		</text>
+		<text font-size="2.8" x="12.0860215053763" y="8.5">P0 = 1.00
+		</text>
+		<text font-size="2.8" x="12.0860215053763" y="10.9">P1 = 0.00
+		</text>
+		<text font-size="2.8" x="12.0860215053763" y="13.3">P2 = 0.00
+		</text>
+		<text font-size="2.8" x="-10.494623655914" y="33.4375">P0 = 0.29
+		</text>
+		<text font-size="2.8" x="-10.494623655914" y="35.8375">P1 = 0.38
+		</text>
+		<text font-size="2.8" x="-10.494623655914" y="38.2375">P2 = 0.33
+		</text>
+		<text font-size="2.8" x="-8.23655913978495" y="47.875">P0 = 0.13
+		</text>
+		<text font-size="2.8" x="-8.23655913978495" y="50.275">P1 = 0.29
+		</text>
+		<text font-size="2.8" x="-8.23655913978495" y="52.675">P2 = 0.58
+		</text>
+		<text font-size="2.8" x="9.0752688172043" y="36.5">P0 = 0.01
+		</text>
+		<text font-size="2.8" x="9.0752688172043" y="38.9">P1 = 0.04
+		</text>
+		<text font-size="2.8" x="9.0752688172043" y="41.3">P2 = 0.95
+		</text>
+		<text font-size="2.8" x="15.0967741935484" y="29.5">P0 = 0.00
+		</text>
+		<text font-size="2.8" x="15.0967741935484" y="31.9">P1 = 0.01
+		</text>
+		<text font-size="2.8" x="15.0967741935484" y="34.3">P2 = 0.99
+		</text>
+		<text font-size="2.8" x="12.0860215053763" y="43.5">P0 = 0.03
+		</text>
+		<text font-size="2.8" x="12.0860215053763" y="45.9">P1 = 0.08
+		</text>
+		<text font-size="2.8" x="12.0860215053763" y="48.3">P2 = 0.89
+		</text>
+		<text font-size="2.8" x="-0.70967741935484" y="59.25">P0 = 0.20
+		</text>
+		<text font-size="2.8" x="-0.70967741935484" y="61.65">P1 = 0.42
+		</text>
+		<text font-size="2.8" x="-0.70967741935484" y="64.05">P2 = 0.37
+		</text>
+		<text font-size="2.8" x="22.6236559139785" y="64.5">P0 = 0.07
+		</text>
+		<text font-size="2.8" x="22.6236559139785" y="66.9">P1 = 0.52
+		</text>
+		<text font-size="2.8" x="22.6236559139785" y="69.3">P2 = 0.41
+		</text>
+	</g>
+	<g >
+		<line style="stroke-width: 0.5; stroke: black" x1="0" x2="7.52688172043011" y1="77" y2="77" />
+		<line style="stroke-width: 0.5; stroke: black" x1="0" x2="0" y1="76" y2="78" />
+		<line style="stroke-width: 0.5; stroke: black" x1="7.52688172043011" x2="7.52688172043011" y1="76" y2="78" />
+		<text font-size="2.1" id="scale" x="0.752688172043011" y="76">1
+		</text>
+	</g>
+	<g id="legend">
+		<polygon id="triangle1" points="0,105 2,105 1,106.732050807569 " style="fill:rgb(48.023329923569,145.503139748566,251.066751382229);stroke:rgb(48.023329923569,145.503139748566,251.066751382229);stroke-width:0.05" />
+		<polygon id="triangle2" points="1,106.732050807569 3,106.732050807569 2,108.464101615138 " style="fill:rgb(59.4433299235691,140.543139748565,240.346751382229);stroke:rgb(59.4433299235691,140.543139748565,240.346751382229);stroke-width:0.05" />
+		<polygon id="triangle3" points="1,106.732050807569 3,106.732050807569 2,105 " style="fill:rgb(54.6166700265267,147.516860222681,244.573248667763);stroke:rgb(54.6166700265267,147.516860222681,244.573248667763);stroke-width:0.05" />
+		<polygon id="triangle4" points="2,108.464101615138 4,108.464101615138 3,110.196152422707 " style="fill:rgb(70.863329923569,135.583139748566,229.626751382229);stroke:rgb(70.863329923569,135.583139748566,229.626751382229);stroke-width:0.05" />
+		<polygon id="triangle5" points="2,108.464101615138 4,108.464101615138 3,106.732050807569 " style="fill:rgb(66.0366700265268,142.556860222681,233.853248667763);stroke:rgb(66.0366700265268,142.556860222681,233.853248667763);stroke-width:0.05" />
+		<polygon id="triangle6" points="3,110.196152422707 5,110.196152422707 4,111.928203230276 " style="fill:rgb(82.2833299235691,130.623139748566,218.906751382229);stroke:rgb(82.2833299235691,130.623139748566,218.906751382229);stroke-width:0.05" />
+		<polygon id="triangle7" points="3,110.196152422707 5,110.196152422707 4,108.464101615138 " style="fill:rgb(77.4566700265268,137.596860222681,223.133248667763);stroke:rgb(77.4566700265268,137.596860222681,223.133248667763);stroke-width:0.05" />
+		<polygon id="triangle8" points="4,111.928203230276 6,111.928203230276 5,113.660254037844 " style="fill:rgb(93.7033299235691,125.663139748565,208.186751382229);stroke:rgb(93.7033299235691,125.663139748565,208.186751382229);stroke-width:0.05" />
+		<polygon id="triangle9" points="4,111.928203230276 6,111.928203230276 5,110.196152422707 " style="fill:rgb(88.8766700265268,132.636860222681,212.413248667763);stroke:rgb(88.8766700265268,132.636860222681,212.413248667763);stroke-width:0.05" />
+		<polygon id="triangle10" points="5,113.660254037844 7,113.660254037844 6,115.392304845413 " style="fill:rgb(105.123329923569,120.703139748565,197.466751382229);stroke:rgb(105.123329923569,120.703139748565,197.466751382229);stroke-width:0.05" />
+		<polygon id="triangle11" points="5,113.660254037844 7,113.660254037844 6,111.928203230276 " style="fill:rgb(100.296670026527,127.676860222681,201.693248667763);stroke:rgb(100.296670026527,127.676860222681,201.693248667763);stroke-width:0.05" />
+		<polygon id="triangle12" points="6,115.392304845413 8,115.392304845413 7,117.124355652982 " style="fill:rgb(116.543329923569,115.743139748566,186.746751382229);stroke:rgb(116.543329923569,115.743139748566,186.746751382229);stroke-width:0.05" />
+		<polygon id="triangle13" points="6,115.392304845413 8,115.392304845413 7,113.660254037844 " style="fill:rgb(111.716670026527,122.716860222681,190.973248667763);stroke:rgb(111.716670026527,122.716860222681,190.973248667763);stroke-width:0.05" />
+		<polygon id="triangle14" points="7,117.124355652982 9,117.124355652982 8,118.856406460551 " style="fill:rgb(127.963329923569,110.783139748566,176.026751382229);stroke:rgb(127.963329923569,110.783139748566,176.026751382229);stroke-width:0.05" />
+		<polygon id="triangle15" points="7,117.124355652982 9,117.124355652982 8,115.392304845413 " style="fill:rgb(123.136670026527,117.756860222681,180.253248667763);stroke:rgb(123.136670026527,117.756860222681,180.253248667763);stroke-width:0.05" />
+		<polygon id="triangle16" points="8,118.856406460551 10,118.856406460551 9,120.58845726812 " style="fill:rgb(139.383329923569,105.823139748565,165.306751382229);stroke:rgb(139.383329923569,105.823139748565,165.306751382229);stroke-width:0.05" />
+		<polygon id="triangle17" points="8,118.856406460551 10,118.856406460551 9,117.124355652982 " style="fill:rgb(134.556670026527,112.796860222681,169.533248667763);stroke:rgb(134.556670026527,112.796860222681,169.533248667763);stroke-width:0.05" />
+		<polygon id="triangle18" points="9,120.58845726812 11,120.58845726812 10,122.320508075689 " style="fill:rgb(150.803329923569,100.863139748565,154.586751382229);stroke:rgb(150.803329923569,100.863139748565,154.586751382229);stroke-width:0.05" />
+		<polygon id="triangle19" points="9,120.58845726812 11,120.58845726812 10,118.856406460551 " style="fill:rgb(145.976670026527,107.836860222681,158.813248667763);stroke:rgb(145.976670026527,107.836860222681,158.813248667763);stroke-width:0.05" />
+		<polygon id="triangle20" points="10,122.320508075689 12,122.320508075689 11,124.052558883258 " style="fill:rgb(162.223329923569,95.9031397485655,143.866751382229);stroke:rgb(162.223329923569,95.9031397485655,143.866751382229);stroke-width:0.05" />
+		<polygon id="triangle21" points="10,122.320508075689 12,122.320508075689 11,120.58845726812 " style="fill:rgb(157.396670026527,102.876860222681,148.093248667763);stroke:rgb(157.396670026527,102.876860222681,148.093248667763);stroke-width:0.05" />
+		<polygon id="triangle22" points="11,124.052558883258 13,124.052558883258 12,125.784609690827 " style="fill:rgb(173.643329923569,90.9431397485655,133.146751382229);stroke:rgb(173.643329923569,90.9431397485655,133.146751382229);stroke-width:0.05" />
+		<polygon id="triangle23" points="11,124.052558883258 13,124.052558883258 12,122.320508075689 " style="fill:rgb(168.816670026527,97.9168602226806,137.373248667763);stroke:rgb(168.816670026527,97.9168602226806,137.373248667763);stroke-width:0.05" />
+		<polygon id="triangle24" points="12,125.784609690827 14,125.784609690827 13,127.516660498395 " style="fill:rgb(185.063329923569,85.9831397485655,122.426751382229);stroke:rgb(185.063329923569,85.9831397485655,122.426751382229);stroke-width:0.05" />
+		<polygon id="triangle25" points="12,125.784609690827 14,125.784609690827 13,124.052558883258 " style="fill:rgb(180.236670026527,92.9568602226806,126.653248667763);stroke:rgb(180.236670026527,92.9568602226806,126.653248667763);stroke-width:0.05" />
+		<polygon id="triangle26" points="13,127.516660498395 15,127.516660498395 14,129.248711305964 " style="fill:rgb(196.483329923569,81.0231397485655,111.706751382229);stroke:rgb(196.483329923569,81.0231397485655,111.706751382229);stroke-width:0.05" />
+		<polygon id="triangle27" points="13,127.516660498395 15,127.516660498395 14,125.784609690827 " style="fill:rgb(191.656670026527,87.9968602226806,115.933248667763);stroke:rgb(191.656670026527,87.9968602226806,115.933248667763);stroke-width:0.05" />
+		<polygon id="triangle28" points="14,129.248711305964 16,129.248711305964 15,130.980762113533 " style="fill:rgb(207.903329923569,76.0631397485655,100.986751382229);stroke:rgb(207.903329923569,76.0631397485655,100.986751382229);stroke-width:0.05" />
+		<polygon id="triangle29" points="14,129.248711305964 16,129.248711305964 15,127.516660498395 " style="fill:rgb(203.076670026527,83.0368602226806,105.213248667763);stroke:rgb(203.076670026527,83.0368602226806,105.213248667763);stroke-width:0.05" />
+		<polygon id="triangle30" points="15,130.980762113533 17,130.980762113533 16,132.712812921102 " style="fill:rgb(219.323329923569,71.1031397485655,90.2667513822289);stroke:rgb(219.323329923569,71.1031397485655,90.2667513822289);stroke-width:0.05" />
+		<polygon id="triangle31" points="15,130.980762113533 17,130.980762113533 16,129.248711305964 " style="fill:rgb(214.496670026527,78.0768602226806,94.4932486677627);stroke:rgb(214.496670026527,78.0768602226806,94.4932486677627);stroke-width:0.05" />
+		<polygon id="triangle32" points="16,132.712812921102 18,132.712812921102 17,134.444863728671 " style="fill:rgb(230.743329923569,66.1431397485655,79.5467513822289);stroke:rgb(230.743329923569,66.1431397485655,79.5467513822289);stroke-width:0.05" />
+		<polygon id="triangle33" points="16,132.712812921102 18,132.712812921102 17,130.980762113533 " style="fill:rgb(225.916670026527,73.1168602226806,83.7732486677627);stroke:rgb(225.916670026527,73.1168602226806,83.7732486677627);stroke-width:0.05" />
+		<polygon id="triangle34" points="17,134.444863728671 19,134.444863728671 18,136.17691453624 " style="fill:rgb(242.163329923569,61.1831397485655,68.8267513822289);stroke:rgb(242.163329923569,61.1831397485655,68.8267513822289);stroke-width:0.05" />
+		<polygon id="triangle35" points="17,134.444863728671 19,134.444863728671 18,132.712812921102 " style="fill:rgb(237.336670026527,68.1568602226806,73.0532486677626);stroke:rgb(237.336670026527,68.1568602226806,73.0532486677626);stroke-width:0.05" />
+		<polygon id="triangle36" points="18,136.17691453624 20,136.17691453624 19,137.908965343809 " style="fill:rgb(253.583329923569,56.2231397485655,58.1067513822289);stroke:rgb(253.583329923569,56.2231397485655,58.1067513822289);stroke-width:0.05" />
+		<polygon id="triangle37" points="18,136.17691453624 20,136.17691453624 19,134.444863728671 " style="fill:rgb(248.756670026527,63.1968602226806,62.3332486677627);stroke:rgb(248.756670026527,63.1968602226806,62.3332486677627);stroke-width:0.05" />
+		<polygon id="triangle38" points="19,137.908965343809 21,137.908965343809 20,139.641016151378 " style="fill:rgb(265.003329923569,51.2631397485655,47.3867513822289);stroke:rgb(265.003329923569,51.2631397485655,47.3867513822289);stroke-width:0.05" />
+		<polygon id="triangle39" points="19,137.908965343809 21,137.908965343809 20,136.17691453624 " style="fill:rgb(260.176670026527,58.2368602226806,51.6132486677627);stroke:rgb(260.176670026527,58.2368602226806,51.6132486677627);stroke-width:0.05" />
+		<polygon id="triangle40" points="2,105 4,105 3,106.732050807569 " style="fill:rgb(59.4433298736649,152.083139719812,239.626751432221);stroke:rgb(59.4433298736649,152.083139719812,239.626751432221);stroke-width:0.05" />
+		<polygon id="triangle41" points="3,106.732050807569 5,106.732050807569 4,108.464101615138 " style="fill:rgb(70.8633298736649,147.123139719812,228.90675143222);stroke:rgb(70.8633298736649,147.123139719812,228.90675143222);stroke-width:0.05" />
+		<polygon id="triangle42" points="3,106.732050807569 5,106.732050807569 4,105 " style="fill:rgb(66.0366699766226,154.096860193927,233.133248717754);stroke:rgb(66.0366699766226,154.096860193927,233.133248717754);stroke-width:0.05" />
+		<polygon id="triangle43" points="4,108.464101615138 6,108.464101615138 5,110.196152422707 " style="fill:rgb(82.2833298736649,142.163139719812,218.186751432221);stroke:rgb(82.2833298736649,142.163139719812,218.186751432221);stroke-width:0.05" />
+		<polygon id="triangle44" points="4,108.464101615138 6,108.464101615138 5,106.732050807569 " style="fill:rgb(77.4566699766226,149.136860193927,222.413248717754);stroke:rgb(77.4566699766226,149.136860193927,222.413248717754);stroke-width:0.05" />
+		<polygon id="triangle45" points="5,110.196152422707 7,110.196152422707 6,111.928203230276 " style="fill:rgb(93.7033298736649,137.203139719812,207.46675143222);stroke:rgb(93.7033298736649,137.203139719812,207.46675143222);stroke-width:0.05" />
+		<polygon id="triangle46" points="5,110.196152422707 7,110.196152422707 6,108.464101615138 " style="fill:rgb(88.8766699766226,144.176860193927,211.693248717754);stroke:rgb(88.8766699766226,144.176860193927,211.693248717754);stroke-width:0.05" />
+		<polygon id="triangle47" points="6,111.928203230276 8,111.928203230276 7,113.660254037844 " style="fill:rgb(105.123329873665,132.243139719812,196.74675143222);stroke:rgb(105.123329873665,132.243139719812,196.74675143222);stroke-width:0.05" />
+		<polygon id="triangle48" points="6,111.928203230276 8,111.928203230276 7,110.196152422707 " style="fill:rgb(100.296669976623,139.216860193927,200.973248717754);stroke:rgb(100.296669976623,139.216860193927,200.973248717754);stroke-width:0.05" />
+		<polygon id="triangle49" points="7,113.660254037844 9,113.660254037844 8,115.392304845413 " style="fill:rgb(116.543329873665,127.283139719812,186.02675143222);stroke:rgb(116.543329873665,127.283139719812,186.02675143222);stroke-width:0.05" />
+		<polygon id="triangle50" points="7,113.660254037844 9,113.660254037844 8,111.928203230276 " style="fill:rgb(111.716669976623,134.256860193927,190.253248717754);stroke:rgb(111.716669976623,134.256860193927,190.253248717754);stroke-width:0.05" />
+		<polygon id="triangle51" points="8,115.392304845413 10,115.392304845413 9,117.124355652982 " style="fill:rgb(127.963329873665,122.323139719812,175.30675143222);stroke:rgb(127.963329873665,122.323139719812,175.30675143222);stroke-width:0.05" />
+		<polygon id="triangle52" points="8,115.392304845413 10,115.392304845413 9,113.660254037844 " style="fill:rgb(123.136669976623,129.296860193927,179.533248717754);stroke:rgb(123.136669976623,129.296860193927,179.533248717754);stroke-width:0.05" />
+		<polygon id="triangle53" points="9,117.124355652982 11,117.124355652982 10,118.856406460551 " style="fill:rgb(139.383329873665,117.363139719812,164.58675143222);stroke:rgb(139.383329873665,117.363139719812,164.58675143222);stroke-width:0.05" />
+		<polygon id="triangle54" points="9,117.124355652982 11,117.124355652982 10,115.392304845413 " style="fill:rgb(134.556669976623,124.336860193927,168.813248717754);stroke:rgb(134.556669976623,124.336860193927,168.813248717754);stroke-width:0.05" />
+		<polygon id="triangle55" points="10,118.856406460551 12,118.856406460551 11,120.58845726812 " style="fill:rgb(150.803329873665,112.403139719812,153.86675143222);stroke:rgb(150.803329873665,112.403139719812,153.86675143222);stroke-width:0.05" />
+		<polygon id="triangle56" points="10,118.856406460551 12,118.856406460551 11,117.124355652982 " style="fill:rgb(145.976669976623,119.376860193927,158.093248717754);stroke:rgb(145.976669976623,119.376860193927,158.093248717754);stroke-width:0.05" />
+		<polygon id="triangle57" points="11,120.58845726812 13,120.58845726812 12,122.320508075689 " style="fill:rgb(162.223329873665,107.443139719812,143.14675143222);stroke:rgb(162.223329873665,107.443139719812,143.14675143222);stroke-width:0.05" />
+		<polygon id="triangle58" points="11,120.58845726812 13,120.58845726812 12,118.856406460551 " style="fill:rgb(157.396669976623,114.416860193927,147.373248717754);stroke:rgb(157.396669976623,114.416860193927,147.373248717754);stroke-width:0.05" />
+		<polygon id="triangle59" points="12,122.320508075689 14,122.320508075689 13,124.052558883258 " style="fill:rgb(173.643329873665,102.483139719812,132.42675143222);stroke:rgb(173.643329873665,102.483139719812,132.42675143222);stroke-width:0.05" />
+		<polygon id="triangle60" points="12,122.320508075689 14,122.320508075689 13,120.58845726812 " style="fill:rgb(168.816669976623,109.456860193927,136.653248717754);stroke:rgb(168.816669976623,109.456860193927,136.653248717754);stroke-width:0.05" />
+		<polygon id="triangle61" points="13,124.052558883258 15,124.052558883258 14,125.784609690827 " style="fill:rgb(185.063329873665,97.5231397198116,121.706751432221);stroke:rgb(185.063329873665,97.5231397198116,121.706751432221);stroke-width:0.05" />
+		<polygon id="triangle62" points="13,124.052558883258 15,124.052558883258 14,122.320508075689 " style="fill:rgb(180.236669976623,104.496860193927,125.933248717754);stroke:rgb(180.236669976623,104.496860193927,125.933248717754);stroke-width:0.05" />
+		<polygon id="triangle63" points="14,125.784609690827 16,125.784609690827 15,127.516660498395 " style="fill:rgb(196.483329873665,92.5631397198116,110.986751432221);stroke:rgb(196.483329873665,92.5631397198116,110.986751432221);stroke-width:0.05" />
+		<polygon id="triangle64" points="14,125.784609690827 16,125.784609690827 15,124.052558883258 " style="fill:rgb(191.656669976623,99.5368601939267,115.213248717754);stroke:rgb(191.656669976623,99.5368601939267,115.213248717754);stroke-width:0.05" />
+		<polygon id="triangle65" points="15,127.516660498395 17,127.516660498395 16,129.248711305964 " style="fill:rgb(207.903329873665,87.6031397198116,100.266751432221);stroke:rgb(207.903329873665,87.6031397198116,100.266751432221);stroke-width:0.05" />
+		<polygon id="triangle66" points="15,127.516660498395 17,127.516660498395 16,125.784609690827 " style="fill:rgb(203.076669976623,94.5768601939267,104.493248717754);stroke:rgb(203.076669976623,94.5768601939267,104.493248717754);stroke-width:0.05" />
+		<polygon id="triangle67" points="16,129.248711305964 18,129.248711305964 17,130.980762113533 " style="fill:rgb(219.323329873665,82.6431397198116,89.5467514322205);stroke:rgb(219.323329873665,82.6431397198116,89.5467514322205);stroke-width:0.05" />
+		<polygon id="triangle68" points="16,129.248711305964 18,129.248711305964 17,127.516660498395 " style="fill:rgb(214.496669976623,89.6168601939267,93.7732487177542);stroke:rgb(214.496669976623,89.6168601939267,93.7732487177542);stroke-width:0.05" />
+		<polygon id="triangle69" points="17,130.980762113533 19,130.980762113533 18,132.712812921102 " style="fill:rgb(230.743329873665,77.6831397198116,78.8267514322205);stroke:rgb(230.743329873665,77.6831397198116,78.8267514322205);stroke-width:0.05" />
+		<polygon id="triangle70" points="17,130.980762113533 19,130.980762113533 18,129.248711305964 " style="fill:rgb(225.916669976623,84.6568601939267,83.0532487177542);stroke:rgb(225.916669976623,84.6568601939267,83.0532487177542);stroke-width:0.05" />
+		<polygon id="triangle71" points="18,132.712812921102 20,132.712812921102 19,134.444863728671 " style="fill:rgb(242.163329873665,72.7231397198116,68.1067514322205);stroke:rgb(242.163329873665,72.7231397198116,68.1067514322205);stroke-width:0.05" />
+		<polygon id="triangle72" points="18,132.712812921102 20,132.712812921102 19,130.980762113533 " style="fill:rgb(237.336669976623,79.6968601939267,72.3332487177542);stroke:rgb(237.336669976623,79.6968601939267,72.3332487177542);stroke-width:0.05" />
+		<polygon id="triangle73" points="19,134.444863728671 21,134.444863728671 20,136.17691453624 " style="fill:rgb(253.583329873665,67.7631397198116,57.3867514322205);stroke:rgb(253.583329873665,67.7631397198116,57.3867514322205);stroke-width:0.05" />
+		<polygon id="triangle74" points="19,134.444863728671 21,134.444863728671 20,132.712812921102 " style="fill:rgb(248.756669976623,74.7368601939267,61.6132487177542);stroke:rgb(248.756669976623,74.7368601939267,61.6132487177542);stroke-width:0.05" />
+		<polygon id="triangle75" points="20,136.17691453624 22,136.17691453624 21,137.908965343809 " style="fill:rgb(265.003329873665,62.8031397198116,46.6667514322205);stroke:rgb(265.003329873665,62.8031397198116,46.6667514322205);stroke-width:0.05" />
+		<polygon id="triangle76" points="20,136.17691453624 22,136.17691453624 21,134.444863728671 " style="fill:rgb(260.176669976623,69.7768601939267,50.8932487177542);stroke:rgb(260.176669976623,69.7768601939267,50.8932487177542);stroke-width:0.05" />
+		<polygon id="triangle77" points="4,105 6,105 5,106.732050807569 " style="fill:rgb(70.8633298237607,158.663139691058,228.186751482212);stroke:rgb(70.8633298237607,158.663139691058,228.186751482212);stroke-width:0.05" />
+		<polygon id="triangle78" points="5,106.732050807569 7,106.732050807569 6,108.464101615138 " style="fill:rgb(82.2833298237607,153.703139691058,217.466751482212);stroke:rgb(82.2833298237607,153.703139691058,217.466751482212);stroke-width:0.05" />
+		<polygon id="triangle79" points="5,106.732050807569 7,106.732050807569 6,105 " style="fill:rgb(77.4566699267184,160.676860165173,221.693248767746);stroke:rgb(77.4566699267184,160.676860165173,221.693248767746);stroke-width:0.05" />
+		<polygon id="triangle80" points="6,108.464101615138 8,108.464101615138 7,110.196152422707 " style="fill:rgb(93.7033298237607,148.743139691058,206.746751482212);stroke:rgb(93.7033298237607,148.743139691058,206.746751482212);stroke-width:0.05" />
+		<polygon id="triangle81" points="6,108.464101615138 8,108.464101615138 7,106.732050807569 " style="fill:rgb(88.8766699267184,155.716860165173,210.973248767746);stroke:rgb(88.8766699267184,155.716860165173,210.973248767746);stroke-width:0.05" />
+		<polygon id="triangle82" points="7,110.196152422707 9,110.196152422707 8,111.928203230276 " style="fill:rgb(105.123329823761,143.783139691058,196.026751482212);stroke:rgb(105.123329823761,143.783139691058,196.026751482212);stroke-width:0.05" />
+		<polygon id="triangle83" points="7,110.196152422707 9,110.196152422707 8,108.464101615138 " style="fill:rgb(100.296669926718,150.756860165173,200.253248767746);stroke:rgb(100.296669926718,150.756860165173,200.253248767746);stroke-width:0.05" />
+		<polygon id="triangle84" points="8,111.928203230276 10,111.928203230276 9,113.660254037844 " style="fill:rgb(116.543329823761,138.823139691058,185.306751482212);stroke:rgb(116.543329823761,138.823139691058,185.306751482212);stroke-width:0.05" />
+		<polygon id="triangle85" points="8,111.928203230276 10,111.928203230276 9,110.196152422707 " style="fill:rgb(111.716669926718,145.796860165173,189.533248767746);stroke:rgb(111.716669926718,145.796860165173,189.533248767746);stroke-width:0.05" />
+		<polygon id="triangle86" points="9,113.660254037844 11,113.660254037844 10,115.392304845413 " style="fill:rgb(127.963329823761,133.863139691058,174.586751482212);stroke:rgb(127.963329823761,133.863139691058,174.586751482212);stroke-width:0.05" />
+		<polygon id="triangle87" points="9,113.660254037844 11,113.660254037844 10,111.928203230276 " style="fill:rgb(123.136669926718,140.836860165173,178.813248767746);stroke:rgb(123.136669926718,140.836860165173,178.813248767746);stroke-width:0.05" />
+		<polygon id="triangle88" points="10,115.392304845413 12,115.392304845413 11,117.124355652982 " style="fill:rgb(139.383329823761,128.903139691058,163.866751482212);stroke:rgb(139.383329823761,128.903139691058,163.866751482212);stroke-width:0.05" />
+		<polygon id="triangle89" points="10,115.392304845413 12,115.392304845413 11,113.660254037844 " style="fill:rgb(134.556669926718,135.876860165173,168.093248767746);stroke:rgb(134.556669926718,135.876860165173,168.093248767746);stroke-width:0.05" />
+		<polygon id="triangle90" points="11,117.124355652982 13,117.124355652982 12,118.856406460551 " style="fill:rgb(150.803329823761,123.943139691058,153.146751482212);stroke:rgb(150.803329823761,123.943139691058,153.146751482212);stroke-width:0.05" />
+		<polygon id="triangle91" points="11,117.124355652982 13,117.124355652982 12,115.392304845413 " style="fill:rgb(145.976669926718,130.916860165173,157.373248767746);stroke:rgb(145.976669926718,130.916860165173,157.373248767746);stroke-width:0.05" />
+		<polygon id="triangle92" points="12,118.856406460551 14,118.856406460551 13,120.58845726812 " style="fill:rgb(162.223329823761,118.983139691058,142.426751482212);stroke:rgb(162.223329823761,118.983139691058,142.426751482212);stroke-width:0.05" />
+		<polygon id="triangle93" points="12,118.856406460551 14,118.856406460551 13,117.124355652982 " style="fill:rgb(157.396669926718,125.956860165173,146.653248767746);stroke:rgb(157.396669926718,125.956860165173,146.653248767746);stroke-width:0.05" />
+		<polygon id="triangle94" points="13,120.58845726812 15,120.58845726812 14,122.320508075689 " style="fill:rgb(173.643329823761,114.023139691058,131.706751482212);stroke:rgb(173.643329823761,114.023139691058,131.706751482212);stroke-width:0.05" />
+		<polygon id="triangle95" points="13,120.58845726812 15,120.58845726812 14,118.856406460551 " style="fill:rgb(168.816669926718,120.996860165173,135.933248767746);stroke:rgb(168.816669926718,120.996860165173,135.933248767746);stroke-width:0.05" />
+		<polygon id="triangle96" points="14,122.320508075689 16,122.320508075689 15,124.052558883258 " style="fill:rgb(185.063329823761,109.063139691058,120.986751482212);stroke:rgb(185.063329823761,109.063139691058,120.986751482212);stroke-width:0.05" />
+		<polygon id="triangle97" points="14,122.320508075689 16,122.320508075689 15,120.58845726812 " style="fill:rgb(180.236669926718,116.036860165173,125.213248767746);stroke:rgb(180.236669926718,116.036860165173,125.213248767746);stroke-width:0.05" />
+		<polygon id="triangle98" points="15,124.052558883258 17,124.052558883258 16,125.784609690827 " style="fill:rgb(196.483329823761,104.103139691058,110.266751482212);stroke:rgb(196.483329823761,104.103139691058,110.266751482212);stroke-width:0.05" />
+		<polygon id="triangle99" points="15,124.052558883258 17,124.052558883258 16,122.320508075689 " style="fill:rgb(191.656669926718,111.076860165173,114.493248767746);stroke:rgb(191.656669926718,111.076860165173,114.493248767746);stroke-width:0.05" />
+		<polygon id="triangle100" points="16,125.784609690827 18,125.784609690827 17,127.516660498395 " style="fill:rgb(207.903329823761,99.1431396910577,99.5467514822121);stroke:rgb(207.903329823761,99.1431396910577,99.5467514822121);stroke-width:0.05" />
+		<polygon id="triangle101" points="16,125.784609690827 18,125.784609690827 17,124.052558883258 " style="fill:rgb(203.076669926718,106.116860165173,103.773248767746);stroke:rgb(203.076669926718,106.116860165173,103.773248767746);stroke-width:0.05" />
+		<polygon id="triangle102" points="17,127.516660498395 19,127.516660498395 18,129.248711305964 " style="fill:rgb(219.323329823761,94.1831396910577,88.8267514822121);stroke:rgb(219.323329823761,94.1831396910577,88.8267514822121);stroke-width:0.05" />
+		<polygon id="triangle103" points="17,127.516660498395 19,127.516660498395 18,125.784609690827 " style="fill:rgb(214.496669926718,101.156860165173,93.0532487677458);stroke:rgb(214.496669926718,101.156860165173,93.0532487677458);stroke-width:0.05" />
+		<polygon id="triangle104" points="18,129.248711305964 20,129.248711305964 19,130.980762113533 " style="fill:rgb(230.743329823761,89.2231396910577,78.1067514822121);stroke:rgb(230.743329823761,89.2231396910577,78.1067514822121);stroke-width:0.05" />
+		<polygon id="triangle105" points="18,129.248711305964 20,129.248711305964 19,127.516660498395 " style="fill:rgb(225.916669926718,96.1968601651728,82.3332487677458);stroke:rgb(225.916669926718,96.1968601651728,82.3332487677458);stroke-width:0.05" />
+		<polygon id="triangle106" points="19,130.980762113533 21,130.980762113533 20,132.712812921102 " style="fill:rgb(242.163329823761,84.2631396910577,67.3867514822121);stroke:rgb(242.163329823761,84.2631396910577,67.3867514822121);stroke-width:0.05" />
+		<polygon id="triangle107" points="19,130.980762113533 21,130.980762113533 20,129.248711305964 " style="fill:rgb(237.336669926718,91.2368601651728,71.6132487677458);stroke:rgb(237.336669926718,91.2368601651728,71.6132487677458);stroke-width:0.05" />
+		<polygon id="triangle108" points="20,132.712812921102 22,132.712812921102 21,134.444863728671 " style="fill:rgb(253.583329823761,79.3031396910577,56.6667514822121);stroke:rgb(253.583329823761,79.3031396910577,56.6667514822121);stroke-width:0.05" />
+		<polygon id="triangle109" points="20,132.712812921102 22,132.712812921102 21,130.980762113533 " style="fill:rgb(248.756669926718,86.2768601651728,60.8932487677458);stroke:rgb(248.756669926718,86.2768601651728,60.8932487677458);stroke-width:0.05" />
+		<polygon id="triangle110" points="21,134.444863728671 23,134.444863728671 22,136.17691453624 " style="fill:rgb(265.003329823761,74.3431396910577,45.9467514822121);stroke:rgb(265.003329823761,74.3431396910577,45.9467514822121);stroke-width:0.05" />
+		<polygon id="triangle111" points="21,134.444863728671 23,134.444863728671 22,132.712812921102 " style="fill:rgb(260.176669926718,81.3168601651728,50.1732487677458);stroke:rgb(260.176669926718,81.3168601651728,50.1732487677458);stroke-width:0.05" />
+		<polygon id="triangle112" points="6,105 8,105 7,106.732050807569 " style="fill:rgb(82.2833297738565,165.243139662304,216.746751532204);stroke:rgb(82.2833297738565,165.243139662304,216.746751532204);stroke-width:0.05" />
+		<polygon id="triangle113" points="7,106.732050807569 9,106.732050807569 8,108.464101615138 " style="fill:rgb(93.7033297738565,160.283139662304,206.026751532204);stroke:rgb(93.7033297738565,160.283139662304,206.026751532204);stroke-width:0.05" />
+		<polygon id="triangle114" points="7,106.732050807569 9,106.732050807569 8,105 " style="fill:rgb(88.8766698768142,167.256860136419,210.253248817737);stroke:rgb(88.8766698768142,167.256860136419,210.253248817737);stroke-width:0.05" />
+		<polygon id="triangle115" points="8,108.464101615138 10,108.464101615138 9,110.196152422707 " style="fill:rgb(105.123329773857,155.323139662304,195.306751532204);stroke:rgb(105.123329773857,155.323139662304,195.306751532204);stroke-width:0.05" />
+		<polygon id="triangle116" points="8,108.464101615138 10,108.464101615138 9,106.732050807569 " style="fill:rgb(100.296669876814,162.296860136419,199.533248817737);stroke:rgb(100.296669876814,162.296860136419,199.533248817737);stroke-width:0.05" />
+		<polygon id="triangle117" points="9,110.196152422707 11,110.196152422707 10,111.928203230276 " style="fill:rgb(116.543329773856,150.363139662304,184.586751532204);stroke:rgb(116.543329773856,150.363139662304,184.586751532204);stroke-width:0.05" />
+		<polygon id="triangle118" points="9,110.196152422707 11,110.196152422707 10,108.464101615138 " style="fill:rgb(111.716669876814,157.336860136419,188.813248817737);stroke:rgb(111.716669876814,157.336860136419,188.813248817737);stroke-width:0.05" />
+		<polygon id="triangle119" points="10,111.928203230276 12,111.928203230276 11,113.660254037844 " style="fill:rgb(127.963329773857,145.403139662304,173.866751532204);stroke:rgb(127.963329773857,145.403139662304,173.866751532204);stroke-width:0.05" />
+		<polygon id="triangle120" points="10,111.928203230276 12,111.928203230276 11,110.196152422707 " style="fill:rgb(123.136669876814,152.376860136419,178.093248817737);stroke:rgb(123.136669876814,152.376860136419,178.093248817737);stroke-width:0.05" />
+		<polygon id="triangle121" points="11,113.660254037844 13,113.660254037844 12,115.392304845413 " style="fill:rgb(139.383329773857,140.443139662304,163.146751532204);stroke:rgb(139.383329773857,140.443139662304,163.146751532204);stroke-width:0.05" />
+		<polygon id="triangle122" points="11,113.660254037844 13,113.660254037844 12,111.928203230276 " style="fill:rgb(134.556669876814,147.416860136419,167.373248817737);stroke:rgb(134.556669876814,147.416860136419,167.373248817737);stroke-width:0.05" />
+		<polygon id="triangle123" points="12,115.392304845413 14,115.392304845413 13,117.124355652982 " style="fill:rgb(150.803329773857,135.483139662304,152.426751532204);stroke:rgb(150.803329773857,135.483139662304,152.426751532204);stroke-width:0.05" />
+		<polygon id="triangle124" points="12,115.392304845413 14,115.392304845413 13,113.660254037844 " style="fill:rgb(145.976669876814,142.456860136419,156.653248817737);stroke:rgb(145.976669876814,142.456860136419,156.653248817737);stroke-width:0.05" />
+		<polygon id="triangle125" points="13,117.124355652982 15,117.124355652982 14,118.856406460551 " style="fill:rgb(162.223329773857,130.523139662304,141.706751532204);stroke:rgb(162.223329773857,130.523139662304,141.706751532204);stroke-width:0.05" />
+		<polygon id="triangle126" points="13,117.124355652982 15,117.124355652982 14,115.392304845413 " style="fill:rgb(157.396669876814,137.496860136419,145.933248817737);stroke:rgb(157.396669876814,137.496860136419,145.933248817737);stroke-width:0.05" />
+		<polygon id="triangle127" points="14,118.856406460551 16,118.856406460551 15,120.58845726812 " style="fill:rgb(173.643329773857,125.563139662304,130.986751532204);stroke:rgb(173.643329773857,125.563139662304,130.986751532204);stroke-width:0.05" />
+		<polygon id="triangle128" points="14,118.856406460551 16,118.856406460551 15,117.124355652982 " style="fill:rgb(168.816669876814,132.536860136419,135.213248817737);stroke:rgb(168.816669876814,132.536860136419,135.213248817737);stroke-width:0.05" />
+		<polygon id="triangle129" points="15,120.58845726812 17,120.58845726812 16,122.320508075689 " style="fill:rgb(185.063329773857,120.603139662304,120.266751532204);stroke:rgb(185.063329773857,120.603139662304,120.266751532204);stroke-width:0.05" />
+		<polygon id="triangle130" points="15,120.58845726812 17,120.58845726812 16,118.856406460551 " style="fill:rgb(180.236669876814,127.576860136419,124.493248817737);stroke:rgb(180.236669876814,127.576860136419,124.493248817737);stroke-width:0.05" />
+		<polygon id="triangle131" points="16,122.320508075689 18,122.320508075689 17,124.052558883258 " style="fill:rgb(196.483329773856,115.643139662304,109.546751532204);stroke:rgb(196.483329773856,115.643139662304,109.546751532204);stroke-width:0.05" />
+		<polygon id="triangle132" points="16,122.320508075689 18,122.320508075689 17,120.58845726812 " style="fill:rgb(191.656669876814,122.616860136419,113.773248817737);stroke:rgb(191.656669876814,122.616860136419,113.773248817737);stroke-width:0.05" />
+		<polygon id="triangle133" points="17,124.052558883258 19,124.052558883258 18,125.784609690827 " style="fill:rgb(207.903329773857,110.683139662304,98.8267515322037);stroke:rgb(207.903329773857,110.683139662304,98.8267515322037);stroke-width:0.05" />
+		<polygon id="triangle134" points="17,124.052558883258 19,124.052558883258 18,122.320508075689 " style="fill:rgb(203.076669876814,117.656860136419,103.053248817737);stroke:rgb(203.076669876814,117.656860136419,103.053248817737);stroke-width:0.05" />
+		<polygon id="triangle135" points="18,125.784609690827 20,125.784609690827 19,127.516660498395 " style="fill:rgb(219.323329773857,105.723139662304,88.1067515322037);stroke:rgb(219.323329773857,105.723139662304,88.1067515322037);stroke-width:0.05" />
+		<polygon id="triangle136" points="18,125.784609690827 20,125.784609690827 19,124.052558883258 " style="fill:rgb(214.496669876814,112.696860136419,92.3332488177374);stroke:rgb(214.496669876814,112.696860136419,92.3332488177374);stroke-width:0.05" />
+		<polygon id="triangle137" points="19,127.516660498395 21,127.516660498395 20,129.248711305964 " style="fill:rgb(230.743329773857,100.763139662304,77.3867515322037);stroke:rgb(230.743329773857,100.763139662304,77.3867515322037);stroke-width:0.05" />
+		<polygon id="triangle138" points="19,127.516660498395 21,127.516660498395 20,125.784609690827 " style="fill:rgb(225.916669876814,107.736860136419,81.6132488177374);stroke:rgb(225.916669876814,107.736860136419,81.6132488177374);stroke-width:0.05" />
+		<polygon id="triangle139" points="20,129.248711305964 22,129.248711305964 21,130.980762113533 " style="fill:rgb(242.163329773857,95.8031396623038,66.6667515322037);stroke:rgb(242.163329773857,95.8031396623038,66.6667515322037);stroke-width:0.05" />
+		<polygon id="triangle140" points="20,129.248711305964 22,129.248711305964 21,127.516660498395 " style="fill:rgb(237.336669876814,102.776860136419,70.8932488177374);stroke:rgb(237.336669876814,102.776860136419,70.8932488177374);stroke-width:0.05" />
+		<polygon id="triangle141" points="21,130.980762113533 23,130.980762113533 22,132.712812921102 " style="fill:rgb(253.583329773857,90.8431396623038,55.9467515322037);stroke:rgb(253.583329773857,90.8431396623038,55.9467515322037);stroke-width:0.05" />
+		<polygon id="triangle142" points="21,130.980762113533 23,130.980762113533 22,129.248711305964 " style="fill:rgb(248.756669876814,97.8168601364189,60.1732488177374);stroke:rgb(248.756669876814,97.8168601364189,60.1732488177374);stroke-width:0.05" />
+		<polygon id="triangle143" points="22,132.712812921102 24,132.712812921102 23,134.444863728671 " style="fill:rgb(265.003329773857,85.8831396623038,45.2267515322037);stroke:rgb(265.003329773857,85.8831396623038,45.2267515322037);stroke-width:0.05" />
+		<polygon id="triangle144" points="22,132.712812921102 24,132.712812921102 23,130.980762113533 " style="fill:rgb(260.176669876814,92.8568601364189,49.4532488177374);stroke:rgb(260.176669876814,92.8568601364189,49.4532488177374);stroke-width:0.05" />
+		<polygon id="triangle145" points="8,105 10,105 9,106.732050807569 " style="fill:rgb(93.7033297239523,171.82313963355,205.306751582195);stroke:rgb(93.7033297239523,171.82313963355,205.306751582195);stroke-width:0.05" />
+		<polygon id="triangle146" points="9,106.732050807569 11,106.732050807569 10,108.464101615138 " style="fill:rgb(105.123329723952,166.86313963355,194.586751582195);stroke:rgb(105.123329723952,166.86313963355,194.586751582195);stroke-width:0.05" />
+		<polygon id="triangle147" points="9,106.732050807569 11,106.732050807569 10,105 " style="fill:rgb(100.29666982691,173.836860107665,198.813248867729);stroke:rgb(100.29666982691,173.836860107665,198.813248867729);stroke-width:0.05" />
+		<polygon id="triangle148" points="10,108.464101615138 12,108.464101615138 11,110.196152422707 " style="fill:rgb(116.543329723952,161.90313963355,183.866751582195);stroke:rgb(116.543329723952,161.90313963355,183.866751582195);stroke-width:0.05" />
+		<polygon id="triangle149" points="10,108.464101615138 12,108.464101615138 11,106.732050807569 " style="fill:rgb(111.71666982691,168.876860107665,188.093248867729);stroke:rgb(111.71666982691,168.876860107665,188.093248867729);stroke-width:0.05" />
+		<polygon id="triangle150" points="11,110.196152422707 13,110.196152422707 12,111.928203230276 " style="fill:rgb(127.963329723952,156.94313963355,173.146751582195);stroke:rgb(127.963329723952,156.94313963355,173.146751582195);stroke-width:0.05" />
+		<polygon id="triangle151" points="11,110.196152422707 13,110.196152422707 12,108.464101615138 " style="fill:rgb(123.13666982691,163.916860107665,177.373248867729);stroke:rgb(123.13666982691,163.916860107665,177.373248867729);stroke-width:0.05" />
+		<polygon id="triangle152" points="12,111.928203230276 14,111.928203230276 13,113.660254037844 " style="fill:rgb(139.383329723952,151.98313963355,162.426751582195);stroke:rgb(139.383329723952,151.98313963355,162.426751582195);stroke-width:0.05" />
+		<polygon id="triangle153" points="12,111.928203230276 14,111.928203230276 13,110.196152422707 " style="fill:rgb(134.55666982691,158.956860107665,166.653248867729);stroke:rgb(134.55666982691,158.956860107665,166.653248867729);stroke-width:0.05" />
+		<polygon id="triangle154" points="13,113.660254037844 15,113.660254037844 14,115.392304845413 " style="fill:rgb(150.803329723952,147.02313963355,151.706751582195);stroke:rgb(150.803329723952,147.02313963355,151.706751582195);stroke-width:0.05" />
+		<polygon id="triangle155" points="13,113.660254037844 15,113.660254037844 14,111.928203230276 " style="fill:rgb(145.97666982691,153.996860107665,155.933248867729);stroke:rgb(145.97666982691,153.996860107665,155.933248867729);stroke-width:0.05" />
+		<polygon id="triangle156" points="14,115.392304845413 16,115.392304845413 15,117.124355652982 " style="fill:rgb(162.223329723952,142.06313963355,140.986751582195);stroke:rgb(162.223329723952,142.06313963355,140.986751582195);stroke-width:0.05" />
+		<polygon id="triangle157" points="14,115.392304845413 16,115.392304845413 15,113.660254037844 " style="fill:rgb(157.39666982691,149.036860107665,145.213248867729);stroke:rgb(157.39666982691,149.036860107665,145.213248867729);stroke-width:0.05" />
+		<polygon id="triangle158" points="15,117.124355652982 17,117.124355652982 16,118.856406460551 " style="fill:rgb(173.643329723952,137.10313963355,130.266751582195);stroke:rgb(173.643329723952,137.10313963355,130.266751582195);stroke-width:0.05" />
+		<polygon id="triangle159" points="15,117.124355652982 17,117.124355652982 16,115.392304845413 " style="fill:rgb(168.81666982691,144.076860107665,134.493248867729);stroke:rgb(168.81666982691,144.076860107665,134.493248867729);stroke-width:0.05" />
+		<polygon id="triangle160" points="16,118.856406460551 18,118.856406460551 17,120.58845726812 " style="fill:rgb(185.063329723952,132.14313963355,119.546751582195);stroke:rgb(185.063329723952,132.14313963355,119.546751582195);stroke-width:0.05" />
+		<polygon id="triangle161" points="16,118.856406460551 18,118.856406460551 17,117.124355652982 " style="fill:rgb(180.23666982691,139.116860107665,123.773248867729);stroke:rgb(180.23666982691,139.116860107665,123.773248867729);stroke-width:0.05" />
+		<polygon id="triangle162" points="17,120.58845726812 19,120.58845726812 18,122.320508075689 " style="fill:rgb(196.483329723952,127.18313963355,108.826751582195);stroke:rgb(196.483329723952,127.18313963355,108.826751582195);stroke-width:0.05" />
+		<polygon id="triangle163" points="17,120.58845726812 19,120.58845726812 18,118.856406460551 " style="fill:rgb(191.65666982691,134.156860107665,113.053248867729);stroke:rgb(191.65666982691,134.156860107665,113.053248867729);stroke-width:0.05" />
+		<polygon id="triangle164" points="18,122.320508075689 20,122.320508075689 19,124.052558883258 " style="fill:rgb(207.903329723952,122.22313963355,98.1067515821952);stroke:rgb(207.903329723952,122.22313963355,98.1067515821952);stroke-width:0.05" />
+		<polygon id="triangle165" points="18,122.320508075689 20,122.320508075689 19,120.58845726812 " style="fill:rgb(203.07666982691,129.196860107665,102.333248867729);stroke:rgb(203.07666982691,129.196860107665,102.333248867729);stroke-width:0.05" />
+		<polygon id="triangle166" points="19,124.052558883258 21,124.052558883258 20,125.784609690827 " style="fill:rgb(219.323329723952,117.26313963355,87.3867515821952);stroke:rgb(219.323329723952,117.26313963355,87.3867515821952);stroke-width:0.05" />
+		<polygon id="triangle167" points="19,124.052558883258 21,124.052558883258 20,122.320508075689 " style="fill:rgb(214.49666982691,124.236860107665,91.613248867729);stroke:rgb(214.49666982691,124.236860107665,91.613248867729);stroke-width:0.05" />
+		<polygon id="triangle168" points="20,125.784609690827 22,125.784609690827 21,127.516660498395 " style="fill:rgb(230.743329723952,112.30313963355,76.6667515821952);stroke:rgb(230.743329723952,112.30313963355,76.6667515821952);stroke-width:0.05" />
+		<polygon id="triangle169" points="20,125.784609690827 22,125.784609690827 21,124.052558883258 " style="fill:rgb(225.91666982691,119.276860107665,80.893248867729);stroke:rgb(225.91666982691,119.276860107665,80.893248867729);stroke-width:0.05" />
+		<polygon id="triangle170" points="21,127.516660498395 23,127.516660498395 22,129.248711305964 " style="fill:rgb(242.163329723952,107.34313963355,65.9467515821952);stroke:rgb(242.163329723952,107.34313963355,65.9467515821952);stroke-width:0.05" />
+		<polygon id="triangle171" points="21,127.516660498395 23,127.516660498395 22,125.784609690827 " style="fill:rgb(237.33666982691,114.316860107665,70.173248867729);stroke:rgb(237.33666982691,114.316860107665,70.173248867729);stroke-width:0.05" />
+		<polygon id="triangle172" points="22,129.248711305964 24,129.248711305964 23,130.980762113533 " style="fill:rgb(253.583329723952,102.38313963355,55.2267515821952);stroke:rgb(253.583329723952,102.38313963355,55.2267515821952);stroke-width:0.05" />
+		<polygon id="triangle173" points="22,129.248711305964 24,129.248711305964 23,127.516660498395 " style="fill:rgb(248.75666982691,109.356860107665,59.453248867729);stroke:rgb(248.75666982691,109.356860107665,59.453248867729);stroke-width:0.05" />
+		<polygon id="triangle174" points="23,130.980762113533 25,130.980762113533 24,132.712812921102 " style="fill:rgb(265.003329723952,97.4231396335499,44.5067515821952);stroke:rgb(265.003329723952,97.4231396335499,44.5067515821952);stroke-width:0.05" />
+		<polygon id="triangle175" points="23,130.980762113533 25,130.980762113533 24,129.248711305964 " style="fill:rgb(260.17666982691,104.396860107665,48.733248867729);stroke:rgb(260.17666982691,104.396860107665,48.733248867729);stroke-width:0.05" />
+		<polygon id="triangle176" points="10,105 12,105 11,106.732050807569 " style="fill:rgb(105.123329674048,178.403139604796,193.866751632187);stroke:rgb(105.123329674048,178.403139604796,193.866751632187);stroke-width:0.05" />
+		<polygon id="triangle177" points="11,106.732050807569 13,106.732050807569 12,108.464101615138 " style="fill:rgb(116.543329674048,173.443139604796,183.146751632187);stroke:rgb(116.543329674048,173.443139604796,183.146751632187);stroke-width:0.05" />
+		<polygon id="triangle178" points="11,106.732050807569 13,106.732050807569 12,105 " style="fill:rgb(111.716669777006,180.416860078911,187.373248917721);stroke:rgb(111.716669777006,180.416860078911,187.373248917721);stroke-width:0.05" />
+		<polygon id="triangle179" points="12,108.464101615138 14,108.464101615138 13,110.196152422707 " style="fill:rgb(127.963329674048,168.483139604796,172.426751632187);stroke:rgb(127.963329674048,168.483139604796,172.426751632187);stroke-width:0.05" />
+		<polygon id="triangle180" points="12,108.464101615138 14,108.464101615138 13,106.732050807569 " style="fill:rgb(123.136669777006,175.456860078911,176.653248917721);stroke:rgb(123.136669777006,175.456860078911,176.653248917721);stroke-width:0.05" />
+		<polygon id="triangle181" points="13,110.196152422707 15,110.196152422707 14,111.928203230276 " style="fill:rgb(139.383329674048,163.523139604796,161.706751632187);stroke:rgb(139.383329674048,163.523139604796,161.706751632187);stroke-width:0.05" />
+		<polygon id="triangle182" points="13,110.196152422707 15,110.196152422707 14,108.464101615138 " style="fill:rgb(134.556669777006,170.496860078911,165.933248917721);stroke:rgb(134.556669777006,170.496860078911,165.933248917721);stroke-width:0.05" />
+		<polygon id="triangle183" points="14,111.928203230276 16,111.928203230276 15,113.660254037844 " style="fill:rgb(150.803329674048,158.563139604796,150.986751632187);stroke:rgb(150.803329674048,158.563139604796,150.986751632187);stroke-width:0.05" />
+		<polygon id="triangle184" points="14,111.928203230276 16,111.928203230276 15,110.196152422707 " style="fill:rgb(145.976669777006,165.536860078911,155.213248917721);stroke:rgb(145.976669777006,165.536860078911,155.213248917721);stroke-width:0.05" />
+		<polygon id="triangle185" points="15,113.660254037844 17,113.660254037844 16,115.392304845413 " style="fill:rgb(162.223329674048,153.603139604796,140.266751632187);stroke:rgb(162.223329674048,153.603139604796,140.266751632187);stroke-width:0.05" />
+		<polygon id="triangle186" points="15,113.660254037844 17,113.660254037844 16,111.928203230276 " style="fill:rgb(157.396669777006,160.576860078911,144.493248917721);stroke:rgb(157.396669777006,160.576860078911,144.493248917721);stroke-width:0.05" />
+		<polygon id="triangle187" points="16,115.392304845413 18,115.392304845413 17,117.124355652982 " style="fill:rgb(173.643329674048,148.643139604796,129.546751632187);stroke:rgb(173.643329674048,148.643139604796,129.546751632187);stroke-width:0.05" />
+		<polygon id="triangle188" points="16,115.392304845413 18,115.392304845413 17,113.660254037844 " style="fill:rgb(168.816669777006,155.616860078911,133.773248917721);stroke:rgb(168.816669777006,155.616860078911,133.773248917721);stroke-width:0.05" />
+		<polygon id="triangle189" points="17,117.124355652982 19,117.124355652982 18,118.856406460551 " style="fill:rgb(185.063329674048,143.683139604796,118.826751632187);stroke:rgb(185.063329674048,143.683139604796,118.826751632187);stroke-width:0.05" />
+		<polygon id="triangle190" points="17,117.124355652982 19,117.124355652982 18,115.392304845413 " style="fill:rgb(180.236669777006,150.656860078911,123.053248917721);stroke:rgb(180.236669777006,150.656860078911,123.053248917721);stroke-width:0.05" />
+		<polygon id="triangle191" points="18,118.856406460551 20,118.856406460551 19,120.58845726812 " style="fill:rgb(196.483329674048,138.723139604796,108.106751632187);stroke:rgb(196.483329674048,138.723139604796,108.106751632187);stroke-width:0.05" />
+		<polygon id="triangle192" points="18,118.856406460551 20,118.856406460551 19,117.124355652982 " style="fill:rgb(191.656669777006,145.696860078911,112.333248917721);stroke:rgb(191.656669777006,145.696860078911,112.333248917721);stroke-width:0.05" />
+		<polygon id="triangle193" points="19,120.58845726812 21,120.58845726812 20,122.320508075689 " style="fill:rgb(207.903329674048,133.763139604796,97.3867516321868);stroke:rgb(207.903329674048,133.763139604796,97.3867516321868);stroke-width:0.05" />
+		<polygon id="triangle194" points="19,120.58845726812 21,120.58845726812 20,118.856406460551 " style="fill:rgb(203.076669777006,140.736860078911,101.613248917721);stroke:rgb(203.076669777006,140.736860078911,101.613248917721);stroke-width:0.05" />
+		<polygon id="triangle195" points="20,122.320508075689 22,122.320508075689 21,124.052558883258 " style="fill:rgb(219.323329674048,128.803139604796,86.6667516321868);stroke:rgb(219.323329674048,128.803139604796,86.6667516321868);stroke-width:0.05" />
+		<polygon id="triangle196" points="20,122.320508075689 22,122.320508075689 21,120.58845726812 " style="fill:rgb(214.496669777006,135.776860078911,90.8932489177206);stroke:rgb(214.496669777006,135.776860078911,90.8932489177206);stroke-width:0.05" />
+		<polygon id="triangle197" points="21,124.052558883258 23,124.052558883258 22,125.784609690827 " style="fill:rgb(230.743329674048,123.843139604796,75.9467516321868);stroke:rgb(230.743329674048,123.843139604796,75.9467516321868);stroke-width:0.05" />
+		<polygon id="triangle198" points="21,124.052558883258 23,124.052558883258 22,122.320508075689 " style="fill:rgb(225.916669777006,130.816860078911,80.1732489177206);stroke:rgb(225.916669777006,130.816860078911,80.1732489177206);stroke-width:0.05" />
+		<polygon id="triangle199" points="22,125.784609690827 24,125.784609690827 23,127.516660498395 " style="fill:rgb(242.163329674048,118.883139604796,65.2267516321868);stroke:rgb(242.163329674048,118.883139604796,65.2267516321868);stroke-width:0.05" />
+		<polygon id="triangle200" points="22,125.784609690827 24,125.784609690827 23,124.052558883258 " style="fill:rgb(237.336669777006,125.856860078911,69.4532489177205);stroke:rgb(237.336669777006,125.856860078911,69.4532489177205);stroke-width:0.05" />
+		<polygon id="triangle201" points="23,127.516660498395 25,127.516660498395 24,129.248711305964 " style="fill:rgb(253.583329674048,113.923139604796,54.5067516321868);stroke:rgb(253.583329674048,113.923139604796,54.5067516321868);stroke-width:0.05" />
+		<polygon id="triangle202" points="23,127.516660498395 25,127.516660498395 24,125.784609690827 " style="fill:rgb(248.756669777006,120.896860078911,58.7332489177205);stroke:rgb(248.756669777006,120.896860078911,58.7332489177205);stroke-width:0.05" />
+		<polygon id="triangle203" points="24,129.248711305964 26,129.248711305964 25,130.980762113533 " style="fill:rgb(265.003329674048,108.963139604796,43.7867516321868);stroke:rgb(265.003329674048,108.963139604796,43.7867516321868);stroke-width:0.05" />
+		<polygon id="triangle204" points="24,129.248711305964 26,129.248711305964 25,127.516660498395 " style="fill:rgb(260.176669777006,115.936860078911,48.0132489177206);stroke:rgb(260.176669777006,115.936860078911,48.0132489177206);stroke-width:0.05" />
+		<polygon id="triangle205" points="12,105 14,105 13,106.732050807569 " style="fill:rgb(116.543329624144,184.983139576042,182.426751682178);stroke:rgb(116.543329624144,184.983139576042,182.426751682178);stroke-width:0.05" />
+		<polygon id="triangle206" points="13,106.732050807569 15,106.732050807569 14,108.464101615138 " style="fill:rgb(127.963329624144,180.023139576042,171.706751682178);stroke:rgb(127.963329624144,180.023139576042,171.706751682178);stroke-width:0.05" />
+		<polygon id="triangle207" points="13,106.732050807569 15,106.732050807569 14,105 " style="fill:rgb(123.136669727102,186.996860050157,175.933248967712);stroke:rgb(123.136669727102,186.996860050157,175.933248967712);stroke-width:0.05" />
+		<polygon id="triangle208" points="14,108.464101615138 16,108.464101615138 15,110.196152422707 " style="fill:rgb(139.383329624144,175.063139576042,160.986751682178);stroke:rgb(139.383329624144,175.063139576042,160.986751682178);stroke-width:0.05" />
+		<polygon id="triangle209" points="14,108.464101615138 16,108.464101615138 15,106.732050807569 " style="fill:rgb(134.556669727102,182.036860050157,165.213248967712);stroke:rgb(134.556669727102,182.036860050157,165.213248967712);stroke-width:0.05" />
+		<polygon id="triangle210" points="15,110.196152422707 17,110.196152422707 16,111.928203230276 " style="fill:rgb(150.803329624144,170.103139576042,150.266751682178);stroke:rgb(150.803329624144,170.103139576042,150.266751682178);stroke-width:0.05" />
+		<polygon id="triangle211" points="15,110.196152422707 17,110.196152422707 16,108.464101615138 " style="fill:rgb(145.976669727102,177.076860050157,154.493248967712);stroke:rgb(145.976669727102,177.076860050157,154.493248967712);stroke-width:0.05" />
+		<polygon id="triangle212" points="16,111.928203230276 18,111.928203230276 17,113.660254037844 " style="fill:rgb(162.223329624144,165.143139576042,139.546751682178);stroke:rgb(162.223329624144,165.143139576042,139.546751682178);stroke-width:0.05" />
+		<polygon id="triangle213" points="16,111.928203230276 18,111.928203230276 17,110.196152422707 " style="fill:rgb(157.396669727102,172.116860050157,143.773248967712);stroke:rgb(157.396669727102,172.116860050157,143.773248967712);stroke-width:0.05" />
+		<polygon id="triangle214" points="17,113.660254037844 19,113.660254037844 18,115.392304845413 " style="fill:rgb(173.643329624144,160.183139576042,128.826751682178);stroke:rgb(173.643329624144,160.183139576042,128.826751682178);stroke-width:0.05" />
+		<polygon id="triangle215" points="17,113.660254037844 19,113.660254037844 18,111.928203230276 " style="fill:rgb(168.816669727102,167.156860050157,133.053248967712);stroke:rgb(168.816669727102,167.156860050157,133.053248967712);stroke-width:0.05" />
+		<polygon id="triangle216" points="18,115.392304845413 20,115.392304845413 19,117.124355652982 " style="fill:rgb(185.063329624144,155.223139576042,118.106751682178);stroke:rgb(185.063329624144,155.223139576042,118.106751682178);stroke-width:0.05" />
+		<polygon id="triangle217" points="18,115.392304845413 20,115.392304845413 19,113.660254037844 " style="fill:rgb(180.236669727102,162.196860050157,122.333248967712);stroke:rgb(180.236669727102,162.196860050157,122.333248967712);stroke-width:0.05" />
+		<polygon id="triangle218" points="19,117.124355652982 21,117.124355652982 20,118.856406460551 " style="fill:rgb(196.483329624144,150.263139576042,107.386751682178);stroke:rgb(196.483329624144,150.263139576042,107.386751682178);stroke-width:0.05" />
+		<polygon id="triangle219" points="19,117.124355652982 21,117.124355652982 20,115.392304845413 " style="fill:rgb(191.656669727102,157.236860050157,111.613248967712);stroke:rgb(191.656669727102,157.236860050157,111.613248967712);stroke-width:0.05" />
+		<polygon id="triangle220" points="20,118.856406460551 22,118.856406460551 21,120.58845726812 " style="fill:rgb(207.903329624144,145.303139576042,96.6667516821784);stroke:rgb(207.903329624144,145.303139576042,96.6667516821784);stroke-width:0.05" />
+		<polygon id="triangle221" points="20,118.856406460551 22,118.856406460551 21,117.124355652982 " style="fill:rgb(203.076669727102,152.276860050157,100.893248967712);stroke:rgb(203.076669727102,152.276860050157,100.893248967712);stroke-width:0.05" />
+		<polygon id="triangle222" points="21,120.58845726812 23,120.58845726812 22,122.320508075689 " style="fill:rgb(219.323329624144,140.343139576042,85.9467516821784);stroke:rgb(219.323329624144,140.343139576042,85.9467516821784);stroke-width:0.05" />
+		<polygon id="triangle223" points="21,120.58845726812 23,120.58845726812 22,118.856406460551 " style="fill:rgb(214.496669727102,147.316860050157,90.1732489677121);stroke:rgb(214.496669727102,147.316860050157,90.1732489677121);stroke-width:0.05" />
+		<polygon id="triangle224" points="22,122.320508075689 24,122.320508075689 23,124.052558883258 " style="fill:rgb(230.743329624144,135.383139576042,75.2267516821784);stroke:rgb(230.743329624144,135.383139576042,75.2267516821784);stroke-width:0.05" />
+		<polygon id="triangle225" points="22,122.320508075689 24,122.320508075689 23,120.58845726812 " style="fill:rgb(225.916669727102,142.356860050157,79.4532489677121);stroke:rgb(225.916669727102,142.356860050157,79.4532489677121);stroke-width:0.05" />
+		<polygon id="triangle226" points="23,124.052558883258 25,124.052558883258 24,125.784609690827 " style="fill:rgb(242.163329624144,130.423139576042,64.5067516821784);stroke:rgb(242.163329624144,130.423139576042,64.5067516821784);stroke-width:0.05" />
+		<polygon id="triangle227" points="23,124.052558883258 25,124.052558883258 24,122.320508075689 " style="fill:rgb(237.336669727102,137.396860050157,68.7332489677121);stroke:rgb(237.336669727102,137.396860050157,68.7332489677121);stroke-width:0.05" />
+		<polygon id="triangle228" points="24,125.784609690827 26,125.784609690827 25,127.516660498395 " style="fill:rgb(253.583329624144,125.463139576042,53.7867516821784);stroke:rgb(253.583329624144,125.463139576042,53.7867516821784);stroke-width:0.05" />
+		<polygon id="triangle229" points="24,125.784609690827 26,125.784609690827 25,124.052558883258 " style="fill:rgb(248.756669727102,132.436860050157,58.0132489677121);stroke:rgb(248.756669727102,132.436860050157,58.0132489677121);stroke-width:0.05" />
+		<polygon id="triangle230" points="25,127.516660498395 27,127.516660498395 26,129.248711305964 " style="fill:rgb(265.003329624144,120.503139576042,43.0667516821784);stroke:rgb(265.003329624144,120.503139576042,43.0667516821784);stroke-width:0.05" />
+		<polygon id="triangle231" points="25,127.516660498395 27,127.516660498395 26,125.784609690827 " style="fill:rgb(260.176669727102,127.476860050157,47.2932489677121);stroke:rgb(260.176669727102,127.476860050157,47.2932489677121);stroke-width:0.05" />
+		<polygon id="triangle232" points="14,105 16,105 15,106.732050807569 " style="fill:rgb(127.96332957424,191.563139547288,170.98675173217);stroke:rgb(127.96332957424,191.563139547288,170.98675173217);stroke-width:0.05" />
+		<polygon id="triangle233" points="15,106.732050807569 17,106.732050807569 16,108.464101615138 " style="fill:rgb(139.38332957424,186.603139547288,160.26675173217);stroke:rgb(139.38332957424,186.603139547288,160.26675173217);stroke-width:0.05" />
+		<polygon id="triangle234" points="15,106.732050807569 17,106.732050807569 16,105 " style="fill:rgb(134.556669677198,193.576860021403,164.493249017704);stroke:rgb(134.556669677198,193.576860021403,164.493249017704);stroke-width:0.05" />
+		<polygon id="triangle235" points="16,108.464101615138 18,108.464101615138 17,110.196152422707 " style="fill:rgb(150.80332957424,181.643139547288,149.54675173217);stroke:rgb(150.80332957424,181.643139547288,149.54675173217);stroke-width:0.05" />
+		<polygon id="triangle236" points="16,108.464101615138 18,108.464101615138 17,106.732050807569 " style="fill:rgb(145.976669677198,188.616860021403,153.773249017704);stroke:rgb(145.976669677198,188.616860021403,153.773249017704);stroke-width:0.05" />
+		<polygon id="triangle237" points="17,110.196152422707 19,110.196152422707 18,111.928203230276 " style="fill:rgb(162.22332957424,176.683139547288,138.82675173217);stroke:rgb(162.22332957424,176.683139547288,138.82675173217);stroke-width:0.05" />
+		<polygon id="triangle238" points="17,110.196152422707 19,110.196152422707 18,108.464101615138 " style="fill:rgb(157.396669677198,183.656860021403,143.053249017704);stroke:rgb(157.396669677198,183.656860021403,143.053249017704);stroke-width:0.05" />
+		<polygon id="triangle239" points="18,111.928203230276 20,111.928203230276 19,113.660254037844 " style="fill:rgb(173.64332957424,171.723139547288,128.10675173217);stroke:rgb(173.64332957424,171.723139547288,128.10675173217);stroke-width:0.05" />
+		<polygon id="triangle240" points="18,111.928203230276 20,111.928203230276 19,110.196152422707 " style="fill:rgb(168.816669677198,178.696860021403,132.333249017704);stroke:rgb(168.816669677198,178.696860021403,132.333249017704);stroke-width:0.05" />
+		<polygon id="triangle241" points="19,113.660254037844 21,113.660254037844 20,115.392304845413 " style="fill:rgb(185.06332957424,166.763139547288,117.38675173217);stroke:rgb(185.06332957424,166.763139547288,117.38675173217);stroke-width:0.05" />
+		<polygon id="triangle242" points="19,113.660254037844 21,113.660254037844 20,111.928203230276 " style="fill:rgb(180.236669677198,173.736860021403,121.613249017704);stroke:rgb(180.236669677198,173.736860021403,121.613249017704);stroke-width:0.05" />
+		<polygon id="triangle243" points="20,115.392304845413 22,115.392304845413 21,117.124355652982 " style="fill:rgb(196.48332957424,161.803139547288,106.66675173217);stroke:rgb(196.48332957424,161.803139547288,106.66675173217);stroke-width:0.05" />
+		<polygon id="triangle244" points="20,115.392304845413 22,115.392304845413 21,113.660254037844 " style="fill:rgb(191.656669677197,168.776860021403,110.893249017704);stroke:rgb(191.656669677197,168.776860021403,110.893249017704);stroke-width:0.05" />
+		<polygon id="triangle245" points="21,117.124355652982 23,117.124355652982 22,118.856406460551 " style="fill:rgb(207.90332957424,156.843139547288,95.94675173217);stroke:rgb(207.90332957424,156.843139547288,95.94675173217);stroke-width:0.05" />
+		<polygon id="triangle246" points="21,117.124355652982 23,117.124355652982 22,115.392304845413 " style="fill:rgb(203.076669677197,163.816860021403,100.173249017704);stroke:rgb(203.076669677197,163.816860021403,100.173249017704);stroke-width:0.05" />
+		<polygon id="triangle247" points="22,118.856406460551 24,118.856406460551 23,120.58845726812 " style="fill:rgb(219.32332957424,151.883139547288,85.22675173217);stroke:rgb(219.32332957424,151.883139547288,85.22675173217);stroke-width:0.05" />
+		<polygon id="triangle248" points="22,118.856406460551 24,118.856406460551 23,117.124355652982 " style="fill:rgb(214.496669677198,158.856860021403,89.4532490177037);stroke:rgb(214.496669677198,158.856860021403,89.4532490177037);stroke-width:0.05" />
+		<polygon id="triangle249" points="23,120.58845726812 25,120.58845726812 24,122.320508075689 " style="fill:rgb(230.74332957424,146.923139547288,74.50675173217);stroke:rgb(230.74332957424,146.923139547288,74.50675173217);stroke-width:0.05" />
+		<polygon id="triangle250" points="23,120.58845726812 25,120.58845726812 24,118.856406460551 " style="fill:rgb(225.916669677198,153.896860021403,78.7332490177037);stroke:rgb(225.916669677198,153.896860021403,78.7332490177037);stroke-width:0.05" />
+		<polygon id="triangle251" points="24,122.320508075689 26,122.320508075689 25,124.052558883258 " style="fill:rgb(242.16332957424,141.963139547288,63.78675173217);stroke:rgb(242.16332957424,141.963139547288,63.78675173217);stroke-width:0.05" />
+		<polygon id="triangle252" points="24,122.320508075689 26,122.320508075689 25,120.58845726812 " style="fill:rgb(237.336669677198,148.936860021403,68.0132490177037);stroke:rgb(237.336669677198,148.936860021403,68.0132490177037);stroke-width:0.05" />
+		<polygon id="triangle253" points="25,124.052558883258 27,124.052558883258 26,125.784609690827 " style="fill:rgb(253.58332957424,137.003139547288,53.06675173217);stroke:rgb(253.58332957424,137.003139547288,53.06675173217);stroke-width:0.05" />
+		<polygon id="triangle254" points="25,124.052558883258 27,124.052558883258 26,122.320508075689 " style="fill:rgb(248.756669677198,143.976860021403,57.2932490177037);stroke:rgb(248.756669677198,143.976860021403,57.2932490177037);stroke-width:0.05" />
+		<polygon id="triangle255" points="26,125.784609690827 28,125.784609690827 27,127.516660498395 " style="fill:rgb(265.00332957424,132.043139547288,42.34675173217);stroke:rgb(265.00332957424,132.043139547288,42.34675173217);stroke-width:0.05" />
+		<polygon id="triangle256" points="26,125.784609690827 28,125.784609690827 27,124.052558883258 " style="fill:rgb(260.176669677198,139.016860021403,46.5732490177037);stroke:rgb(260.176669677198,139.016860021403,46.5732490177037);stroke-width:0.05" />
+		<polygon id="triangle257" points="16,105 18,105 17,106.732050807569 " style="fill:rgb(139.383329524336,198.143139518534,159.546751782162);stroke:rgb(139.383329524336,198.143139518534,159.546751782162);stroke-width:0.05" />
+		<polygon id="triangle258" points="17,106.732050807569 19,106.732050807569 18,108.464101615138 " style="fill:rgb(150.803329524336,193.183139518534,148.826751782162);stroke:rgb(150.803329524336,193.183139518534,148.826751782162);stroke-width:0.05" />
+		<polygon id="triangle259" points="17,106.732050807569 19,106.732050807569 18,105 " style="fill:rgb(145.976669627293,200.156859992649,153.053249067695);stroke:rgb(145.976669627293,200.156859992649,153.053249067695);stroke-width:0.05" />
+		<polygon id="triangle260" points="18,108.464101615138 20,108.464101615138 19,110.196152422707 " style="fill:rgb(162.223329524336,188.223139518534,138.106751782162);stroke:rgb(162.223329524336,188.223139518534,138.106751782162);stroke-width:0.05" />
+		<polygon id="triangle261" points="18,108.464101615138 20,108.464101615138 19,106.732050807569 " style="fill:rgb(157.396669627293,195.196859992649,142.333249067695);stroke:rgb(157.396669627293,195.196859992649,142.333249067695);stroke-width:0.05" />
+		<polygon id="triangle262" points="19,110.196152422707 21,110.196152422707 20,111.928203230276 " style="fill:rgb(173.643329524336,183.263139518534,127.386751782162);stroke:rgb(173.643329524336,183.263139518534,127.386751782162);stroke-width:0.05" />
+		<polygon id="triangle263" points="19,110.196152422707 21,110.196152422707 20,108.464101615138 " style="fill:rgb(168.816669627293,190.236859992649,131.613249067695);stroke:rgb(168.816669627293,190.236859992649,131.613249067695);stroke-width:0.05" />
+		<polygon id="triangle264" points="20,111.928203230276 22,111.928203230276 21,113.660254037844 " style="fill:rgb(185.063329524336,178.303139518534,116.666751782162);stroke:rgb(185.063329524336,178.303139518534,116.666751782162);stroke-width:0.05" />
+		<polygon id="triangle265" points="20,111.928203230276 22,111.928203230276 21,110.196152422707 " style="fill:rgb(180.236669627293,185.276859992649,120.893249067695);stroke:rgb(180.236669627293,185.276859992649,120.893249067695);stroke-width:0.05" />
+		<polygon id="triangle266" points="21,113.660254037844 23,113.660254037844 22,115.392304845413 " style="fill:rgb(196.483329524336,173.343139518534,105.946751782162);stroke:rgb(196.483329524336,173.343139518534,105.946751782162);stroke-width:0.05" />
+		<polygon id="triangle267" points="21,113.660254037844 23,113.660254037844 22,111.928203230276 " style="fill:rgb(191.656669627293,180.316859992649,110.173249067695);stroke:rgb(191.656669627293,180.316859992649,110.173249067695);stroke-width:0.05" />
+		<polygon id="triangle268" points="22,115.392304845413 24,115.392304845413 23,117.124355652982 " style="fill:rgb(207.903329524336,168.383139518534,95.2267517821616);stroke:rgb(207.903329524336,168.383139518534,95.2267517821616);stroke-width:0.05" />
+		<polygon id="triangle269" points="22,115.392304845413 24,115.392304845413 23,113.660254037844 " style="fill:rgb(203.076669627293,175.356859992649,99.4532490676953);stroke:rgb(203.076669627293,175.356859992649,99.4532490676953);stroke-width:0.05" />
+		<polygon id="triangle270" points="23,117.124355652982 25,117.124355652982 24,118.856406460551 " style="fill:rgb(219.323329524336,163.423139518534,84.5067517821616);stroke:rgb(219.323329524336,163.423139518534,84.5067517821616);stroke-width:0.05" />
+		<polygon id="triangle271" points="23,117.124355652982 25,117.124355652982 24,115.392304845413 " style="fill:rgb(214.496669627293,170.396859992649,88.7332490676953);stroke:rgb(214.496669627293,170.396859992649,88.7332490676953);stroke-width:0.05" />
+		<polygon id="triangle272" points="24,118.856406460551 26,118.856406460551 25,120.58845726812 " style="fill:rgb(230.743329524336,158.463139518534,73.7867517821616);stroke:rgb(230.743329524336,158.463139518534,73.7867517821616);stroke-width:0.05" />
+		<polygon id="triangle273" points="24,118.856406460551 26,118.856406460551 25,117.124355652982 " style="fill:rgb(225.916669627293,165.436859992649,78.0132490676953);stroke:rgb(225.916669627293,165.436859992649,78.0132490676953);stroke-width:0.05" />
+		<polygon id="triangle274" points="25,120.58845726812 27,120.58845726812 26,122.320508075689 " style="fill:rgb(242.163329524336,153.503139518534,63.0667517821616);stroke:rgb(242.163329524336,153.503139518534,63.0667517821616);stroke-width:0.05" />
+		<polygon id="triangle275" points="25,120.58845726812 27,120.58845726812 26,118.856406460551 " style="fill:rgb(237.336669627293,160.476859992649,67.2932490676953);stroke:rgb(237.336669627293,160.476859992649,67.2932490676953);stroke-width:0.05" />
+		<polygon id="triangle276" points="26,122.320508075689 28,122.320508075689 27,124.052558883258 " style="fill:rgb(253.583329524336,148.543139518534,52.3467517821616);stroke:rgb(253.583329524336,148.543139518534,52.3467517821616);stroke-width:0.05" />
+		<polygon id="triangle277" points="26,122.320508075689 28,122.320508075689 27,120.58845726812 " style="fill:rgb(248.756669627293,155.516859992649,56.5732490676953);stroke:rgb(248.756669627293,155.516859992649,56.5732490676953);stroke-width:0.05" />
+		<polygon id="triangle278" points="27,124.052558883258 29,124.052558883258 28,125.784609690827 " style="fill:rgb(265.003329524336,143.583139518534,41.6267517821616);stroke:rgb(265.003329524336,143.583139518534,41.6267517821616);stroke-width:0.05" />
+		<polygon id="triangle279" points="27,124.052558883258 29,124.052558883258 28,122.320508075689 " style="fill:rgb(260.176669627293,150.556859992649,45.8532490676953);stroke:rgb(260.176669627293,150.556859992649,45.8532490676953);stroke-width:0.05" />
+		<polygon id="triangle280" points="18,105 20,105 19,106.732050807569 " style="fill:rgb(150.803329474431,204.72313948978,148.106751832153);stroke:rgb(150.803329474431,204.72313948978,148.106751832153);stroke-width:0.05" />
+		<polygon id="triangle281" points="19,106.732050807569 21,106.732050807569 20,108.464101615138 " style="fill:rgb(162.223329474431,199.76313948978,137.386751832153);stroke:rgb(162.223329474431,199.76313948978,137.386751832153);stroke-width:0.05" />
+		<polygon id="triangle282" points="19,106.732050807569 21,106.732050807569 20,105 " style="fill:rgb(157.396669577389,206.736859963896,141.613249117687);stroke:rgb(157.396669577389,206.736859963896,141.613249117687);stroke-width:0.05" />
+		<polygon id="triangle283" points="20,108.464101615138 22,108.464101615138 21,110.196152422707 " style="fill:rgb(173.643329474431,194.80313948978,126.666751832153);stroke:rgb(173.643329474431,194.80313948978,126.666751832153);stroke-width:0.05" />
+		<polygon id="triangle284" points="20,108.464101615138 22,108.464101615138 21,106.732050807569 " style="fill:rgb(168.816669577389,201.776859963896,130.893249117687);stroke:rgb(168.816669577389,201.776859963896,130.893249117687);stroke-width:0.05" />
+		<polygon id="triangle285" points="21,110.196152422707 23,110.196152422707 22,111.928203230276 " style="fill:rgb(185.063329474431,189.84313948978,115.946751832153);stroke:rgb(185.063329474431,189.84313948978,115.946751832153);stroke-width:0.05" />
+		<polygon id="triangle286" points="21,110.196152422707 23,110.196152422707 22,108.464101615138 " style="fill:rgb(180.236669577389,196.816859963896,120.173249117687);stroke:rgb(180.236669577389,196.816859963896,120.173249117687);stroke-width:0.05" />
+		<polygon id="triangle287" points="22,111.928203230276 24,111.928203230276 23,113.660254037844 " style="fill:rgb(196.483329474431,184.88313948978,105.226751832153);stroke:rgb(196.483329474431,184.88313948978,105.226751832153);stroke-width:0.05" />
+		<polygon id="triangle288" points="22,111.928203230276 24,111.928203230276 23,110.196152422707 " style="fill:rgb(191.656669577389,191.856859963896,109.453249117687);stroke:rgb(191.656669577389,191.856859963896,109.453249117687);stroke-width:0.05" />
+		<polygon id="triangle289" points="23,113.660254037844 25,113.660254037844 24,115.392304845413 " style="fill:rgb(207.903329474431,179.92313948978,94.5067518321532);stroke:rgb(207.903329474431,179.92313948978,94.5067518321532);stroke-width:0.05" />
+		<polygon id="triangle290" points="23,113.660254037844 25,113.660254037844 24,111.928203230276 " style="fill:rgb(203.076669577389,186.896859963896,98.7332491176869);stroke:rgb(203.076669577389,186.896859963896,98.7332491176869);stroke-width:0.05" />
+		<polygon id="triangle291" points="24,115.392304845413 26,115.392304845413 25,117.124355652982 " style="fill:rgb(219.323329474431,174.96313948978,83.7867518321531);stroke:rgb(219.323329474431,174.96313948978,83.7867518321531);stroke-width:0.05" />
+		<polygon id="triangle292" points="24,115.392304845413 26,115.392304845413 25,113.660254037844 " style="fill:rgb(214.496669577389,181.936859963896,88.0132491176869);stroke:rgb(214.496669577389,181.936859963896,88.0132491176869);stroke-width:0.05" />
+		<polygon id="triangle293" points="25,117.124355652982 27,117.124355652982 26,118.856406460551 " style="fill:rgb(230.743329474431,170.00313948978,73.0667518321532);stroke:rgb(230.743329474431,170.00313948978,73.0667518321532);stroke-width:0.05" />
+		<polygon id="triangle294" points="25,117.124355652982 27,117.124355652982 26,115.392304845413 " style="fill:rgb(225.916669577389,176.976859963895,77.2932491176869);stroke:rgb(225.916669577389,176.976859963895,77.2932491176869);stroke-width:0.05" />
+		<polygon id="triangle295" points="26,118.856406460551 28,118.856406460551 27,120.58845726812 " style="fill:rgb(242.163329474431,165.04313948978,62.3467518321531);stroke:rgb(242.163329474431,165.04313948978,62.3467518321531);stroke-width:0.05" />
+		<polygon id="triangle296" points="26,118.856406460551 28,118.856406460551 27,117.124355652982 " style="fill:rgb(237.336669577389,172.016859963895,66.5732491176869);stroke:rgb(237.336669577389,172.016859963895,66.5732491176869);stroke-width:0.05" />
+		<polygon id="triangle297" points="27,120.58845726812 29,120.58845726812 28,122.320508075689 " style="fill:rgb(253.583329474431,160.08313948978,51.6267518321531);stroke:rgb(253.583329474431,160.08313948978,51.6267518321531);stroke-width:0.05" />
+		<polygon id="triangle298" points="27,120.58845726812 29,120.58845726812 28,118.856406460551 " style="fill:rgb(248.756669577389,167.056859963896,55.8532491176869);stroke:rgb(248.756669577389,167.056859963896,55.8532491176869);stroke-width:0.05" />
+		<polygon id="triangle299" points="28,122.320508075689 30,122.320508075689 29,124.052558883258 " style="fill:rgb(265.003329474431,155.12313948978,40.9067518321531);stroke:rgb(265.003329474431,155.12313948978,40.9067518321531);stroke-width:0.05" />
+		<polygon id="triangle300" points="28,122.320508075689 30,122.320508075689 29,120.58845726812 " style="fill:rgb(260.176669577389,162.096859963895,45.1332491176869);stroke:rgb(260.176669577389,162.096859963895,45.1332491176869);stroke-width:0.05" />
+		<polygon id="triangle301" points="20,105 22,105 21,106.732050807569 " style="fill:rgb(162.223329424527,211.303139461027,136.666751882145);stroke:rgb(162.223329424527,211.303139461027,136.666751882145);stroke-width:0.05" />
+		<polygon id="triangle302" points="21,106.732050807569 23,106.732050807569 22,108.464101615138 " style="fill:rgb(173.643329424527,206.343139461027,125.946751882145);stroke:rgb(173.643329424527,206.343139461027,125.946751882145);stroke-width:0.05" />
+		<polygon id="triangle303" points="21,106.732050807569 23,106.732050807569 22,105 " style="fill:rgb(168.816669527485,213.316859935142,130.173249167678);stroke:rgb(168.816669527485,213.316859935142,130.173249167678);stroke-width:0.05" />
+		<polygon id="triangle304" points="22,108.464101615138 24,108.464101615138 23,110.196152422707 " style="fill:rgb(185.063329424527,201.383139461027,115.226751882145);stroke:rgb(185.063329424527,201.383139461027,115.226751882145);stroke-width:0.05" />
+		<polygon id="triangle305" points="22,108.464101615138 24,108.464101615138 23,106.732050807569 " style="fill:rgb(180.236669527485,208.356859935142,119.453249167678);stroke:rgb(180.236669527485,208.356859935142,119.453249167678);stroke-width:0.05" />
+		<polygon id="triangle306" points="23,110.196152422707 25,110.196152422707 24,111.928203230276 " style="fill:rgb(196.483329424527,196.423139461027,104.506751882145);stroke:rgb(196.483329424527,196.423139461027,104.506751882145);stroke-width:0.05" />
+		<polygon id="triangle307" points="23,110.196152422707 25,110.196152422707 24,108.464101615138 " style="fill:rgb(191.656669527485,203.396859935142,108.733249167678);stroke:rgb(191.656669527485,203.396859935142,108.733249167678);stroke-width:0.05" />
+		<polygon id="triangle308" points="24,111.928203230276 26,111.928203230276 25,113.660254037844 " style="fill:rgb(207.903329424527,191.463139461027,93.7867518821447);stroke:rgb(207.903329424527,191.463139461027,93.7867518821447);stroke-width:0.05" />
+		<polygon id="triangle309" points="24,111.928203230276 26,111.928203230276 25,110.196152422707 " style="fill:rgb(203.076669527485,198.436859935142,98.0132491676785);stroke:rgb(203.076669527485,198.436859935142,98.0132491676785);stroke-width:0.05" />
+		<polygon id="triangle310" points="25,113.660254037844 27,113.660254037844 26,115.392304845413 " style="fill:rgb(219.323329424527,186.503139461027,83.0667518821447);stroke:rgb(219.323329424527,186.503139461027,83.0667518821447);stroke-width:0.05" />
+		<polygon id="triangle311" points="25,113.660254037844 27,113.660254037844 26,111.928203230276 " style="fill:rgb(214.496669527485,193.476859935142,87.2932491676784);stroke:rgb(214.496669527485,193.476859935142,87.2932491676784);stroke-width:0.05" />
+		<polygon id="triangle312" points="26,115.392304845413 28,115.392304845413 27,117.124355652982 " style="fill:rgb(230.743329424527,181.543139461026,72.3467518821447);stroke:rgb(230.743329424527,181.543139461026,72.3467518821447);stroke-width:0.05" />
+		<polygon id="triangle313" points="26,115.392304845413 28,115.392304845413 27,113.660254037844 " style="fill:rgb(225.916669527485,188.516859935142,76.5732491676785);stroke:rgb(225.916669527485,188.516859935142,76.5732491676785);stroke-width:0.05" />
+		<polygon id="triangle314" points="27,117.124355652982 29,117.124355652982 28,118.856406460551 " style="fill:rgb(242.163329424527,176.583139461026,61.6267518821447);stroke:rgb(242.163329424527,176.583139461026,61.6267518821447);stroke-width:0.05" />
+		<polygon id="triangle315" points="27,117.124355652982 29,117.124355652982 28,115.392304845413 " style="fill:rgb(237.336669527485,183.556859935142,65.8532491676785);stroke:rgb(237.336669527485,183.556859935142,65.8532491676785);stroke-width:0.05" />
+		<polygon id="triangle316" points="28,118.856406460551 30,118.856406460551 29,120.58845726812 " style="fill:rgb(253.583329424527,171.623139461027,50.9067518821447);stroke:rgb(253.583329424527,171.623139461027,50.9067518821447);stroke-width:0.05" />
+		<polygon id="triangle317" points="28,118.856406460551 30,118.856406460551 29,117.124355652982 " style="fill:rgb(248.756669527485,178.596859935142,55.1332491676785);stroke:rgb(248.756669527485,178.596859935142,55.1332491676785);stroke-width:0.05" />
+		<polygon id="triangle318" points="29,120.58845726812 31,120.58845726812 30,122.320508075689 " style="fill:rgb(265.003329424527,166.663139461027,40.1867518821447);stroke:rgb(265.003329424527,166.663139461027,40.1867518821447);stroke-width:0.05" />
+		<polygon id="triangle319" points="29,120.58845726812 31,120.58845726812 30,118.856406460551 " style="fill:rgb(260.176669527485,173.636859935142,44.4132491676784);stroke:rgb(260.176669527485,173.636859935142,44.4132491676784);stroke-width:0.05" />
+		<polygon id="triangle320" points="22,105 24,105 23,106.732050807569 " style="fill:rgb(173.643329374623,217.883139432273,125.226751932136);stroke:rgb(173.643329374623,217.883139432273,125.226751932136);stroke-width:0.05" />
+		<polygon id="triangle321" points="23,106.732050807569 25,106.732050807569 24,108.464101615138 " style="fill:rgb(185.063329374623,212.923139432273,114.506751932136);stroke:rgb(185.063329374623,212.923139432273,114.506751932136);stroke-width:0.05" />
+		<polygon id="triangle322" points="23,106.732050807569 25,106.732050807569 24,105 " style="fill:rgb(180.236669477581,219.896859906388,118.73324921767);stroke:rgb(180.236669477581,219.896859906388,118.73324921767);stroke-width:0.05" />
+		<polygon id="triangle323" points="24,108.464101615138 26,108.464101615138 25,110.196152422707 " style="fill:rgb(196.483329374623,207.963139432273,103.786751932136);stroke:rgb(196.483329374623,207.963139432273,103.786751932136);stroke-width:0.05" />
+		<polygon id="triangle324" points="24,108.464101615138 26,108.464101615138 25,106.732050807569 " style="fill:rgb(191.656669477581,214.936859906388,108.01324921767);stroke:rgb(191.656669477581,214.936859906388,108.01324921767);stroke-width:0.05" />
+		<polygon id="triangle325" points="25,110.196152422707 27,110.196152422707 26,111.928203230276 " style="fill:rgb(207.903329374623,203.003139432273,93.0667519321363);stroke:rgb(207.903329374623,203.003139432273,93.0667519321363);stroke-width:0.05" />
+		<polygon id="triangle326" points="25,110.196152422707 27,110.196152422707 26,108.464101615138 " style="fill:rgb(203.076669477581,209.976859906388,97.2932492176701);stroke:rgb(203.076669477581,209.976859906388,97.2932492176701);stroke-width:0.05" />
+		<polygon id="triangle327" points="26,111.928203230276 28,111.928203230276 27,113.660254037844 " style="fill:rgb(219.323329374623,198.043139432273,82.3467519321363);stroke:rgb(219.323329374623,198.043139432273,82.3467519321363);stroke-width:0.05" />
+		<polygon id="triangle328" points="26,111.928203230276 28,111.928203230276 27,110.196152422707 " style="fill:rgb(214.496669477581,205.016859906388,86.57324921767);stroke:rgb(214.496669477581,205.016859906388,86.57324921767);stroke-width:0.05" />
+		<polygon id="triangle329" points="27,113.660254037844 29,113.660254037844 28,115.392304845413 " style="fill:rgb(230.743329374623,193.083139432273,71.6267519321363);stroke:rgb(230.743329374623,193.083139432273,71.6267519321363);stroke-width:0.05" />
+		<polygon id="triangle330" points="27,113.660254037844 29,113.660254037844 28,111.928203230276 " style="fill:rgb(225.916669477581,200.056859906388,75.85324921767);stroke:rgb(225.916669477581,200.056859906388,75.85324921767);stroke-width:0.05" />
+		<polygon id="triangle331" points="28,115.392304845413 30,115.392304845413 29,117.124355652982 " style="fill:rgb(242.163329374623,188.123139432273,60.9067519321363);stroke:rgb(242.163329374623,188.123139432273,60.9067519321363);stroke-width:0.05" />
+		<polygon id="triangle332" points="28,115.392304845413 30,115.392304845413 29,113.660254037844 " style="fill:rgb(237.336669477581,195.096859906388,65.1332492176701);stroke:rgb(237.336669477581,195.096859906388,65.1332492176701);stroke-width:0.05" />
+		<polygon id="triangle333" points="29,117.124355652982 31,117.124355652982 30,118.856406460551 " style="fill:rgb(253.583329374623,183.163139432273,50.1867519321363);stroke:rgb(253.583329374623,183.163139432273,50.1867519321363);stroke-width:0.05" />
+		<polygon id="triangle334" points="29,117.124355652982 31,117.124355652982 30,115.392304845413 " style="fill:rgb(248.756669477581,190.136859906388,54.4132492176701);stroke:rgb(248.756669477581,190.136859906388,54.4132492176701);stroke-width:0.05" />
+		<polygon id="triangle335" points="30,118.856406460551 32,118.856406460551 31,120.58845726812 " style="fill:rgb(265.003329374623,178.203139432273,39.4667519321363);stroke:rgb(265.003329374623,178.203139432273,39.4667519321363);stroke-width:0.05" />
+		<polygon id="triangle336" points="30,118.856406460551 32,118.856406460551 31,117.124355652982 " style="fill:rgb(260.176669477581,185.176859906388,43.6932492176701);stroke:rgb(260.176669477581,185.176859906388,43.6932492176701);stroke-width:0.05" />
+		<polygon id="triangle337" points="24,105 26,105 25,106.732050807569 " style="fill:rgb(185.063329324719,224.463139403519,113.786751982128);stroke:rgb(185.063329324719,224.463139403519,113.786751982128);stroke-width:0.05" />
+		<polygon id="triangle338" points="25,106.732050807569 27,106.732050807569 26,108.464101615138 " style="fill:rgb(196.483329324719,219.503139403519,103.066751982128);stroke:rgb(196.483329324719,219.503139403519,103.066751982128);stroke-width:0.05" />
+		<polygon id="triangle339" points="25,106.732050807569 27,106.732050807569 26,105 " style="fill:rgb(191.656669427677,226.476859877634,107.293249267662);stroke:rgb(191.656669427677,226.476859877634,107.293249267662);stroke-width:0.05" />
+		<polygon id="triangle340" points="26,108.464101615138 28,108.464101615138 27,110.196152422707 " style="fill:rgb(207.903329324719,214.543139403519,92.3467519821279);stroke:rgb(207.903329324719,214.543139403519,92.3467519821279);stroke-width:0.05" />
+		<polygon id="triangle341" points="26,108.464101615138 28,108.464101615138 27,106.732050807569 " style="fill:rgb(203.076669427677,221.516859877634,96.5732492676616);stroke:rgb(203.076669427677,221.516859877634,96.5732492676616);stroke-width:0.05" />
+		<polygon id="triangle342" points="27,110.196152422707 29,110.196152422707 28,111.928203230276 " style="fill:rgb(219.323329324719,209.583139403519,81.6267519821279);stroke:rgb(219.323329324719,209.583139403519,81.6267519821279);stroke-width:0.05" />
+		<polygon id="triangle343" points="27,110.196152422707 29,110.196152422707 28,108.464101615138 " style="fill:rgb(214.496669427677,216.556859877634,85.8532492676616);stroke:rgb(214.496669427677,216.556859877634,85.8532492676616);stroke-width:0.05" />
+		<polygon id="triangle344" points="28,111.928203230276 30,111.928203230276 29,113.660254037844 " style="fill:rgb(230.743329324719,204.623139403519,70.9067519821279);stroke:rgb(230.743329324719,204.623139403519,70.9067519821279);stroke-width:0.05" />
+		<polygon id="triangle345" points="28,111.928203230276 30,111.928203230276 29,110.196152422707 " style="fill:rgb(225.916669427677,211.596859877634,75.1332492676616);stroke:rgb(225.916669427677,211.596859877634,75.1332492676616);stroke-width:0.05" />
+		<polygon id="triangle346" points="29,113.660254037844 31,113.660254037844 30,115.392304845413 " style="fill:rgb(242.163329324719,199.663139403519,60.1867519821279);stroke:rgb(242.163329324719,199.663139403519,60.1867519821279);stroke-width:0.05" />
+		<polygon id="triangle347" points="29,113.660254037844 31,113.660254037844 30,111.928203230276 " style="fill:rgb(237.336669427677,206.636859877634,64.4132492676616);stroke:rgb(237.336669427677,206.636859877634,64.4132492676616);stroke-width:0.05" />
+		<polygon id="triangle348" points="30,115.392304845413 32,115.392304845413 31,117.124355652982 " style="fill:rgb(253.583329324719,194.703139403519,49.4667519821279);stroke:rgb(253.583329324719,194.703139403519,49.4667519821279);stroke-width:0.05" />
+		<polygon id="triangle349" points="30,115.392304845413 32,115.392304845413 31,113.660254037844 " style="fill:rgb(248.756669427677,201.676859877634,53.6932492676616);stroke:rgb(248.756669427677,201.676859877634,53.6932492676616);stroke-width:0.05" />
+		<polygon id="triangle350" points="31,117.124355652982 33,117.124355652982 32,118.856406460551 " style="fill:rgb(265.003329324719,189.743139403519,38.7467519821279);stroke:rgb(265.003329324719,189.743139403519,38.7467519821279);stroke-width:0.05" />
+		<polygon id="triangle351" points="31,117.124355652982 33,117.124355652982 32,115.392304845413 " style="fill:rgb(260.176669427677,196.716859877634,42.9732492676616);stroke:rgb(260.176669427677,196.716859877634,42.9732492676616);stroke-width:0.05" />
+		<polygon id="triangle352" points="26,105 28,105 27,106.732050807569 " style="fill:rgb(196.483329274815,231.043139374765,102.346752032119);stroke:rgb(196.483329274815,231.043139374765,102.346752032119);stroke-width:0.05" />
+		<polygon id="triangle353" points="27,106.732050807569 29,106.732050807569 28,108.464101615138 " style="fill:rgb(207.903329274815,226.083139374765,91.6267520321195);stroke:rgb(207.903329274815,226.083139374765,91.6267520321195);stroke-width:0.05" />
+		<polygon id="triangle354" points="27,106.732050807569 29,106.732050807569 28,105 " style="fill:rgb(203.076669377772,233.05685984888,95.8532493176532);stroke:rgb(203.076669377772,233.05685984888,95.8532493176532);stroke-width:0.05" />
+		<polygon id="triangle355" points="28,108.464101615138 30,108.464101615138 29,110.196152422707 " style="fill:rgb(219.323329274815,221.123139374765,80.9067520321195);stroke:rgb(219.323329274815,221.123139374765,80.9067520321195);stroke-width:0.05" />
+		<polygon id="triangle356" points="28,108.464101615138 30,108.464101615138 29,106.732050807569 " style="fill:rgb(214.496669377772,228.09685984888,85.1332493176532);stroke:rgb(214.496669377772,228.09685984888,85.1332493176532);stroke-width:0.05" />
+		<polygon id="triangle357" points="29,110.196152422707 31,110.196152422707 30,111.928203230276 " style="fill:rgb(230.743329274815,216.163139374765,70.1867520321195);stroke:rgb(230.743329274815,216.163139374765,70.1867520321195);stroke-width:0.05" />
+		<polygon id="triangle358" points="29,110.196152422707 31,110.196152422707 30,108.464101615138 " style="fill:rgb(225.916669377772,223.13685984888,74.4132493176532);stroke:rgb(225.916669377772,223.13685984888,74.4132493176532);stroke-width:0.05" />
+		<polygon id="triangle359" points="30,111.928203230276 32,111.928203230276 31,113.660254037844 " style="fill:rgb(242.163329274815,211.203139374765,59.4667520321195);stroke:rgb(242.163329274815,211.203139374765,59.4667520321195);stroke-width:0.05" />
+		<polygon id="triangle360" points="30,111.928203230276 32,111.928203230276 31,110.196152422707 " style="fill:rgb(237.336669377772,218.17685984888,63.6932493176532);stroke:rgb(237.336669377772,218.17685984888,63.6932493176532);stroke-width:0.05" />
+		<polygon id="triangle361" points="31,113.660254037844 33,113.660254037844 32,115.392304845413 " style="fill:rgb(253.583329274815,206.243139374765,48.7467520321195);stroke:rgb(253.583329274815,206.243139374765,48.7467520321195);stroke-width:0.05" />
+		<polygon id="triangle362" points="31,113.660254037844 33,113.660254037844 32,111.928203230276 " style="fill:rgb(248.756669377772,213.21685984888,52.9732493176532);stroke:rgb(248.756669377772,213.21685984888,52.9732493176532);stroke-width:0.05" />
+		<polygon id="triangle363" points="32,115.392304845413 34,115.392304845413 33,117.124355652982 " style="fill:rgb(265.003329274815,201.283139374765,38.0267520321195);stroke:rgb(265.003329274815,201.283139374765,38.0267520321195);stroke-width:0.05" />
+		<polygon id="triangle364" points="32,115.392304845413 34,115.392304845413 33,113.660254037844 " style="fill:rgb(260.176669377772,208.25685984888,42.2532493176532);stroke:rgb(260.176669377772,208.25685984888,42.2532493176532);stroke-width:0.05" />
+		<polygon id="triangle365" points="28,105 30,105 29,106.732050807569 " style="fill:rgb(207.90332922491,237.623139346011,90.9067520821111);stroke:rgb(207.90332922491,237.623139346011,90.9067520821111);stroke-width:0.05" />
+		<polygon id="triangle366" points="29,106.732050807569 31,106.732050807569 30,108.464101615138 " style="fill:rgb(219.323329224911,232.663139346011,80.1867520821111);stroke:rgb(219.323329224911,232.663139346011,80.1867520821111);stroke-width:0.05" />
+		<polygon id="triangle367" points="29,106.732050807569 31,106.732050807569 30,105 " style="fill:rgb(214.496669327868,239.636859820126,84.4132493676448);stroke:rgb(214.496669327868,239.636859820126,84.4132493676448);stroke-width:0.05" />
+		<polygon id="triangle368" points="30,108.464101615138 32,108.464101615138 31,110.196152422707 " style="fill:rgb(230.74332922491,227.703139346011,69.4667520821111);stroke:rgb(230.74332922491,227.703139346011,69.4667520821111);stroke-width:0.05" />
+		<polygon id="triangle369" points="30,108.464101615138 32,108.464101615138 31,106.732050807569 " style="fill:rgb(225.916669327868,234.676859820126,73.6932493676448);stroke:rgb(225.916669327868,234.676859820126,73.6932493676448);stroke-width:0.05" />
+		<polygon id="triangle370" points="31,110.196152422707 33,110.196152422707 32,111.928203230276 " style="fill:rgb(242.16332922491,222.743139346011,58.7467520821111);stroke:rgb(242.16332922491,222.743139346011,58.7467520821111);stroke-width:0.05" />
+		<polygon id="triangle371" points="31,110.196152422707 33,110.196152422707 32,108.464101615138 " style="fill:rgb(237.336669327868,229.716859820126,62.9732493676448);stroke:rgb(237.336669327868,229.716859820126,62.9732493676448);stroke-width:0.05" />
+		<polygon id="triangle372" points="32,111.928203230276 34,111.928203230276 33,113.660254037844 " style="fill:rgb(253.58332922491,217.783139346011,48.026752082111);stroke:rgb(253.58332922491,217.783139346011,48.026752082111);stroke-width:0.05" />
+		<polygon id="triangle373" points="32,111.928203230276 34,111.928203230276 33,110.196152422707 " style="fill:rgb(248.756669327868,224.756859820126,52.2532493676447);stroke:rgb(248.756669327868,224.756859820126,52.2532493676447);stroke-width:0.05" />
+		<polygon id="triangle374" points="33,113.660254037844 35,113.660254037844 34,115.392304845413 " style="fill:rgb(265.00332922491,212.823139346011,37.3067520821111);stroke:rgb(265.00332922491,212.823139346011,37.3067520821111);stroke-width:0.05" />
+		<polygon id="triangle375" points="33,113.660254037844 35,113.660254037844 34,111.928203230276 " style="fill:rgb(260.176669327868,219.796859820126,41.5332493676448);stroke:rgb(260.176669327868,219.796859820126,41.5332493676448);stroke-width:0.05" />
+		<polygon id="triangle376" points="30,105 32,105 31,106.732050807569 " style="fill:rgb(219.323329175006,244.203139317257,79.4667521321026);stroke:rgb(219.323329175006,244.203139317257,79.4667521321026);stroke-width:0.05" />
+		<polygon id="triangle377" points="31,106.732050807569 33,106.732050807569 32,108.464101615138 " style="fill:rgb(230.743329175006,239.243139317257,68.7467521321026);stroke:rgb(230.743329175006,239.243139317257,68.7467521321026);stroke-width:0.05" />
+		<polygon id="triangle378" points="31,106.732050807569 33,106.732050807569 32,105 " style="fill:rgb(225.916669277964,246.216859791372,72.9732494176363);stroke:rgb(225.916669277964,246.216859791372,72.9732494176363);stroke-width:0.05" />
+		<polygon id="triangle379" points="32,108.464101615138 34,108.464101615138 33,110.196152422707 " style="fill:rgb(242.163329175006,234.283139317257,58.0267521321026);stroke:rgb(242.163329175006,234.283139317257,58.0267521321026);stroke-width:0.05" />
+		<polygon id="triangle380" points="32,108.464101615138 34,108.464101615138 33,106.732050807569 " style="fill:rgb(237.336669277964,241.256859791372,62.2532494176363);stroke:rgb(237.336669277964,241.256859791372,62.2532494176363);stroke-width:0.05" />
+		<polygon id="triangle381" points="33,110.196152422707 35,110.196152422707 34,111.928203230276 " style="fill:rgb(253.583329175006,229.323139317257,47.3067521321026);stroke:rgb(253.583329175006,229.323139317257,47.3067521321026);stroke-width:0.05" />
+		<polygon id="triangle382" points="33,110.196152422707 35,110.196152422707 34,108.464101615138 " style="fill:rgb(248.756669277964,236.296859791372,51.5332494176363);stroke:rgb(248.756669277964,236.296859791372,51.5332494176363);stroke-width:0.05" />
+		<polygon id="triangle383" points="34,111.928203230276 36,111.928203230276 35,113.660254037844 " style="fill:rgb(265.003329175006,224.363139317257,36.5867521321026);stroke:rgb(265.003329175006,224.363139317257,36.5867521321026);stroke-width:0.05" />
+		<polygon id="triangle384" points="34,111.928203230276 36,111.928203230276 35,110.196152422707 " style="fill:rgb(260.176669277964,231.336859791372,40.8132494176363);stroke:rgb(260.176669277964,231.336859791372,40.8132494176363);stroke-width:0.05" />
+		<polygon id="triangle385" points="32,105 34,105 33,106.732050807569 " style="fill:rgb(230.743329125102,250.783139288503,68.0267521820942);stroke:rgb(230.743329125102,250.783139288503,68.0267521820942);stroke-width:0.05" />
+		<polygon id="triangle386" points="33,106.732050807569 35,106.732050807569 34,108.464101615138 " style="fill:rgb(242.163329125102,245.823139288503,57.3067521820942);stroke:rgb(242.163329125102,245.823139288503,57.3067521820942);stroke-width:0.05" />
+		<polygon id="triangle387" points="33,106.732050807569 35,106.732050807569 34,105 " style="fill:rgb(237.33666922806,252.796859762618,61.5332494676279);stroke:rgb(237.33666922806,252.796859762618,61.5332494676279);stroke-width:0.05" />
+		<polygon id="triangle388" points="34,108.464101615138 36,108.464101615138 35,110.196152422707 " style="fill:rgb(253.583329125102,240.863139288503,46.5867521820942);stroke:rgb(253.583329125102,240.863139288503,46.5867521820942);stroke-width:0.05" />
+		<polygon id="triangle389" points="34,108.464101615138 36,108.464101615138 35,106.732050807569 " style="fill:rgb(248.75666922806,247.836859762618,50.8132494676279);stroke:rgb(248.75666922806,247.836859762618,50.8132494676279);stroke-width:0.05" />
+		<polygon id="triangle390" points="35,110.196152422707 37,110.196152422707 36,111.928203230276 " style="fill:rgb(265.003329125102,235.903139288503,35.8667521820942);stroke:rgb(265.003329125102,235.903139288503,35.8667521820942);stroke-width:0.05" />
+		<polygon id="triangle391" points="35,110.196152422707 37,110.196152422707 36,108.464101615138 " style="fill:rgb(260.17666922806,242.876859762618,40.0932494676279);stroke:rgb(260.17666922806,242.876859762618,40.0932494676279);stroke-width:0.05" />
+		<polygon id="triangle392" points="34,105 36,105 35,106.732050807569 " style="fill:rgb(242.163329075198,257.363139259749,56.5867522320858);stroke:rgb(242.163329075198,257.363139259749,56.5867522320858);stroke-width:0.05" />
+		<polygon id="triangle393" points="35,106.732050807569 37,106.732050807569 36,108.464101615138 " style="fill:rgb(253.583329075198,252.403139259749,45.8667522320858);stroke:rgb(253.583329075198,252.403139259749,45.8667522320858);stroke-width:0.05" />
+		<polygon id="triangle394" points="35,106.732050807569 37,106.732050807569 36,105 " style="fill:rgb(248.756669178156,259.376859733864,50.0932495176195);stroke:rgb(248.756669178156,259.376859733864,50.0932495176195);stroke-width:0.05" />
+		<polygon id="triangle395" points="36,108.464101615138 38,108.464101615138 37,110.196152422707 " style="fill:rgb(265.003329075198,247.443139259749,35.1467522320858);stroke:rgb(265.003329075198,247.443139259749,35.1467522320858);stroke-width:0.05" />
+		<polygon id="triangle396" points="36,108.464101615138 38,108.464101615138 37,106.732050807569 " style="fill:rgb(260.176669178156,254.416859733864,39.3732495176195);stroke:rgb(260.176669178156,254.416859733864,39.3732495176195);stroke-width:0.05" />
+		<polygon id="triangle397" points="36,105 38,105 37,106.732050807569 " style="fill:rgb(253.583329025294,263.943139230995,45.1467522820774);stroke:rgb(253.583329025294,263.943139230995,45.1467522820774);stroke-width:0.05" />
+		<polygon id="triangle398" points="37,106.732050807569 39,106.732050807569 38,108.464101615138 " style="fill:rgb(265.003329025294,258.983139230995,34.4267522820774);stroke:rgb(265.003329025294,258.983139230995,34.4267522820774);stroke-width:0.05" />
+		<polygon id="triangle399" points="37,106.732050807569 39,106.732050807569 38,105 " style="fill:rgb(260.176669128252,265.95685970511,38.6532495676111);stroke:rgb(260.176669128252,265.95685970511,38.6532495676111);stroke-width:0.05" />
+		<polygon id="triangle400" points="38,105 40,105 39,106.732050807569 " style="fill:rgb(265.00332897539,270.523139202241,33.706752332069);stroke:rgb(265.00332897539,270.523139202241,33.706752332069);stroke-width:0.05" />
+		<text font-size="4" x="-10" y="94.5">Pr(state 0) = 1
+		</text>
+		<text font-size="4" x="-10" y="99.4">Pr(state 1) = 0
+		</text>
+		<text font-size="4" x="-10" y="104.3">Pr(state 2) = 0
+		</text>
+		<text font-size="4" x="30" y="94.5">Pr(state 0) = 0
+		</text>
+		<text font-size="4" x="30" y="99.4">Pr(state 1) = 0
+		</text>
+		<text font-size="4" x="30" y="104.3">Pr(state 2) = 1
+		</text>
+		<text font-size="4" x="10" y="143.841016151378">Pr(state 0) = 0
+		</text>
+		<text font-size="4" x="10" y="148.741016151378">Pr(state 1) = 1
+		</text>
+		<text font-size="4" x="10" y="153.641016151378">Pr(state 2) = 0
+		</text>
+	</g><!-- 
+	Generated using the Perl SVG Module V2.33
+	by Ronan Oger
+	Info: http://www.roasp.com/
+ -->
+</svg>

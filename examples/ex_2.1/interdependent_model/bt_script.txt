@@ -1,0 +1,57 @@
+# this script runs an ML optimization under the model for interdependent trait evolution with discrete states
+3
+1
+addnode node_1 13 18 9 22 53 45 17 11 3 4 26 21 2 1 31 32 52 49 29 47 10 7 39 38 50 28 51 46 27 6 48 33 8 44 37 43 5 14 34 24 25 35 36 42 15 40 12 41 16 30 19 23 20
+addnode node_2 18 9 22 53 45 17 11 3 4 26 21 2 1 31 32 52 49 29 47 10 7 39 38 50 28 51 46 27 6 48 33 8 44 37 43 5 14 34 24 25 35 36 42 15 40 12 41 16 30 19 23 20
+addnode node_3 18 9 22 53 45 17 11 3 4 26 21 2 1
+addnode node_4 9 22 53 45 17 11 3 4 26 21 2 1
+addnode node_5 9 22
+addnode node_6 53 45 17 11 3 4 26 21 2 1
+addnode node_7 53 45 17
+addnode node_8 45 17
+addnode node_9 11 3 4 26 21 2 1
+addnode node_10 11 3
+addnode node_11 4 26 21 2 1
+addnode node_12 4 26
+addnode node_13 21 2 1
+addnode node_14 2 1
+addnode node_15 31 32 52 49 29 47 10 7 39 38 50 28 51 46 27 6 48 33 8 44 37 43 5 14 34 24 25 35 36 42 15 40 12 41 16 30 19 23 20
+addnode node_16 31 32 52
+addnode node_17 32 52
+addnode node_18 49 29 47 10 7 39 38 50 28 51 46 27 6 48 33 8 44 37 43 5 14 34 24 25 35 36 42 15 40 12 41 16 30 19 23 20
+addnode node_19 49 29 47 10 7 39 38 50 28 51 46 27 6 48 33 8 44 37 43 5 14
+addnode node_20 49 29
+addnode node_21 47 10 7 39 38 50 28 51 46 27 6 48 33 8 44 37 43 5 14
+addnode node_22 47 10 7 39 38 50
+addnode node_23 10 7 39 38 50
+addnode node_24 10 7
+addnode node_25 39 38 50
+addnode node_26 39 38
+addnode node_27 28 51 46 27 6 48 33 8 44 37 43 5 14
+addnode node_28 51 46 27 6 48 33 8 44 37 43 5 14
+addnode node_29 51 46 27
+addnode node_30 51 46
+addnode node_31 6 48 33 8 44 37 43 5 14
+addnode node_32 6 48 33 8
+addnode node_33 6 48 33
+addnode node_34 48 33
+addnode node_35 44 37 43 5 14
+addnode node_36 37 43 5 14
+addnode node_37 43 5 14
+addnode node_38 5 14
+addnode node_39 34 24 25 35 36 42 15 40 12 41 16 30 19 23 20
+addnode node_40 24 25 35 36 42 15 40 12 41 16 30 19 23 20
+addnode node_41 25 35 36 42 15 40 12 41 16 30 19 23 20
+addnode node_42 35 36 42 15 40 12 41 16 30 19 23 20
+addnode node_43 36 42 15 40 12 41 16 30 19 23 20
+addnode node_44 36 42 15 40
+addnode node_45 42 15 40
+addnode node_46 42 15
+addnode node_47 12 41 16 30 19 23 20
+addnode node_48 41 16 30 19 23 20
+addnode node_49 16 30 19 23 20
+addnode node_50 30 19 23 20
+addnode node_51 19 23 20
+addnode node_52 23 20
+mltries 100
+run

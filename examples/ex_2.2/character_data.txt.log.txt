@@ -1,0 +1,75 @@
+Options:
+Model:                           Multistates
+Tree File Name:                  tree.nex
+Data File Name:                  character_data.txt
+Log File Name:                   character_data.txt.log.txt
+Summary:                         False
+Analsis Type:                    Maximum Likelihood
+ML attempt per tree:             100
+No of Rates:                     6
+Base frequency (PI's)            None
+Character Symbols                0,1,2
+Using a covarion model:          False
+Restrictions:
+    q01                          None
+    q02                          None
+    q10                          None
+    q12                          None
+    q20                          None
+    q21                          None
+Node:         node_9                    100.000000
+             9	I
+             10	J
+Node:         node_8                    100.000000
+             8	H
+             9	I
+             10	J
+Node:         node_7                    100.000000
+             5	E
+             4	D
+Node:         node_6                    100.000000
+             6	F
+             7	G
+Node:         node_5                    100.000000
+             6	F
+             7	G
+             5	E
+             4	D
+Node:         node_4                    100.000000
+             6	F
+             7	G
+             5	E
+             4	D
+             8	H
+             9	I
+             10	J
+Node:         node_3                    100.000000
+             3	C
+             6	F
+             7	G
+             5	E
+             4	D
+             8	H
+             9	I
+             10	J
+Node:         node_2                    100.000000
+             2	B
+             1	A
+Node:         node_1                    100.000000
+             2	B
+             1	A
+             3	C
+             6	F
+             7	G
+             5	E
+             4	D
+             8	H
+             9	I
+             10	J
+Tree Information
+     Trees:                      1
+     Taxa:                       10
+     Sites:                      1
+     States:                     3
+Tree No	Lh	q01	q02	q10	q12	q20	q21	Root P(0)	Root P(1)	Root P(2)	node_9 P(0)	node_9 P(1)	node_9 P(2)	node_8 P(0)	node_8 P(1)	node_8 P(2)	node_7 P(0)	node_7 P(1)	node_7 P(2)	node_6 P(0)	node_6 P(1)	node_6 P(2)	node_5 P(0)	node_5 P(1)	node_5 P(2)	node_4 P(0)	node_4 P(1)	node_4 P(2)	node_3 P(0)	node_3 P(1)	node_3 P(2)	node_2 P(0)	node_2 P(1)	node_2 P(2)	node_1 P(0)	node_1 P(1)	node_1 P(2)	
+1	-6.885716	0.151445	0.116840	0.264019	0.275067	0.000000	0.201578	0.519707	0.363833	0.116460	0.069098	0.523981	0.406921	0.204399	0.424158	0.371443	0.025664	0.081796	0.892540	0.002706	0.012092	0.985202	0.008278	0.037465	0.954257	0.125365	0.289703	0.584932	0.294099	0.379838	0.326063	0.999329	0.000671	0.000000	0.519707	0.363833	0.116460	
